@@ -1,0 +1,36 @@
+Use of Collected Data vs. Integrity
+    Sử dụng dữ liệu được thu thập so với tính toàn vẹn
+
+    thu thập dữ liệu địa chỉ để giao hàng 
+    thu nhập trung bình của người dùng trong khu vực đó
+    => lợi thế khi có thể đẩy giá cao hơn
+    
+    Tính toàn vẹn ở đây là việc chỉ sử dùng dữ liệu cho một mục đích đã 
+    thông báo trước, không dùng cho muc đích khác
+    => mâu thuẫn giữa lợi nhuận và đạo đức
+
+    Ethics washing - tuyên bố có đạo đức nhưng không thực hiện
+    có các quy định cho việc lựa chọn, đánh đổi giữa thu thập dữ liệu
+        để phục vụ cho lợi ích và duy trì tính toàn vẹn
+
+    => các tiêu chuẩn cũng có tác dụng định hướng, hướng dẫn
+__________________________________________________________________________
+Availability of Datasets for Machine Learning Algorithms 
+    vs. Privacy Protection
+    Tính sẵn có của bộ dữ liệu cho các thuật toán học máy so với 
+        Bảo vệ quyền riêng tư 
+
+    có các tập dữ liệu công khai sẵn về sở thích và rating
+    kết hợp nhiều tập dữ liệu => xác định được nhóm nhỏ khách hàng
+    => có thể vi phạm quyền riêng tư
+
+    ML làm việc với nhiều dữ liệu => thu thập nhiều data hơn
+
+    Bảo vệ quyền riêng tư đề cập đến việc bảo vệ PII (personal ID), 
+    thông tin nhận dạng cá nhân, khỏi tiết lộ trái phép ngoài mục đích 
+    đã nêu.
+    nhiều data = đạt được nhiều mục đích hơn, đạt được nhiều 
+        != vi phạm các quyền riêng tư nếu người dùng ko biết và đồng ý
+____________________________________________________________________________
+
+
