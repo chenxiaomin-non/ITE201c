@@ -1,0 +1,177 @@
+Regulation
+	A regulation is a set of stipulations or rules made by a legislative elected 
+	body of Representatives in consultation with subject matter experts.
+	=> Tập hợp các quy tắc được đưa ra bởi một cơ quan lập pháp được sự tham vấn
+	của các chuyên gia
+	
+	Regulation != Ethical Framework
+
+	An ethical framework is instead a set of principles and values that can be 
+	used to formulate and inform regulations.
+	=> Không bị bắt buộc và ko có giá trị pháp lí như các qui định
+=> Có thể đưa các EF vào các qui định về kĩ thuật
+___________________________________________________________________________________________
+The Code of Fair Information Practices
+	Quy tắc Thực hành Thông tin Công bằng
+
+	The Code of Fair Information Practices regulation was initiated in response to 
+	the rising use of personally identifiable information in automated data systems.
+	=> Ra đời nhằm quản lí việc sử dụng thông tin nhận dạng các nhân (bio, pass,...)
+
+	Focus on privacy
+	Notice and awareness => cá nhân nhận thức được việc đang bị sử dụng data của họ
+	Choice and consent => Lựa chọn tham gia hoặc không
+	Access and participation => có quyền xem và xác minh tính đúng đắn
+	Integrity and security => data được thu thập chính xác và bảo mật
+	Enforcement and redress => thực thi các điều khoản và khắc phục các lỗ hổng
+____________________________________________________________________________________________
+OECD Privacy Guidelines
+	Nguyên tắc về quyền riêng tư của OECD 
+	
+	The OECD privacy guidelines are focused on the following principles: 
+	collection limitation, data quality, purpose specification, use limitation, 
+	security safeguards, openness, individual participation, and accountability.
+	
+	giới hạn thu thập, chất lượng dữ liệu, đặc tả mục đích, giới hạn sử dụng, 
+	các biện pháp bảo mật, tính cởi mở, sự tham gia của cá nhân và 
+	trách nhiệm giải trình.
+	=> áp dụng cho tất cả các dữ liệu dù thuộc tư nhân hay nhà nước
+	=> được xem là các nguyên tắc ở mức tối thiểu, cơ sở cho các qui định khác
+____________________________________________________________________________________________
+GDPR -  general data protection regulation
+	quy định chung về bảo vệ dữ liệu
+
+	=> liên kết các luật về bảo mật data trên khắp EU
+	. Đối tượng : các bên thu thập dữ liệu cá nhân của công dân EU
+		dù có chi nhánh trong EU hay không hay data đó được xử lí ở đâu đi nữa
+	--> mức phạt rất cao, tập trung vào quyền riêng tư, bảo vệ dữ liệu cá nhân và 
+		phản đối tự động quyết định
+___________________________________________________________________________________________
+CCPA - California Consumer Privacy Act
+	Đạo luật về quyền riêng tư của người tiêu dùng California 
+
+	cung cấp cho người dùng biết cách dữ liệu của họ được sử dụng
+
+	who was gathering personal data, for what purpose, who that might be exposed to, 
+	to decline the sale of personal data, to gain access to any data held about them, 
+	and to request that a business delete any personal information that they may hold.
+
+	ai đang thu thập dữ liệu cá nhân, vì mục đích gì, ai có thể bị tiếp xúc, 
+	từ chối việc bán dữ liệu cá nhân, để có quyền truy cập vào bất kỳ dữ liệu nào về 
+	chúng và yêu cầu doanh nghiệp xóa bất kỳ thông tin cá nhân nào mà họ có thể nắm giữ.
+
+	=> đề ra một mức phạt nhất định cho các công ty vi phạm điều khoản
+____________________________________________________________________________________________ 
+PIPEDA - Personal Information Protection and Electronic Documents Act.
+	Đạo luật Bảo vệ Thông tin Cá nhân và Tài liệu Điện tử. 
+	
+	PIPEDA focuses on the rights of individuals as it relates to knowing why an 
+	organization collects, uses, or discloses personal information.
+	=> tập trung vào các quyền cá nhân, minh bạch quá trình sử dụng dữ liệu cá nhân
+	
+	áp dụng cho nhiều ngành khác nhau : hàng không, ngân hàng, media, chăm sóc
+	sức khỏe,...
+	 # đặc biệt yêu cầu các tổ chức tiếp tục cung cấp services ngay khi người dùng
+		từ chối cung cấp dữ liệu
+___________________________________________________________________________________________
+POPI - protection of personal information
+	Sự bảo vệ thông tin cá nhân
+	
+	áp dụng ở Nam Phi
+	POPI sets out eight conditions : 
+	accountability, processing limitations, purpose specifications, 
+	further processing limitations, information quality, openness, 
+	security safeguards, and data subject participation.
+	--> trách nhiệm giải trình, giới hạn xử lý, đặc điểm kỹ thuật mục đích, 
+	giới hạn xử lý thêm, chất lượng thông tin, tính mở, các biện pháp bảo mật 
+	và sự tham gia của chủ thể dữ liệu. 
+
+	áp dụng với các dữ liệu được thu thập bởi cả tư nhân và nhà nước
+	đặc biệt việc chuyển, xử lí dữ liệu xuyên biên giới
+____________________________________________________________________________________________
+LGPD - Lei Geral de Proteção de Dados or the Brazilian General Data Protection Act.
+	Đạo luật bảo vệ dữ liệu chung của Brazil. 
+	
+	LGBD thực hiện các trừng phạt hành chính và hình sự
+	có cảm hứng từ GDPR của EU, qui định về dữ  liệu online, offline
+	
+	LGPD is a privacy-centered regulation.
+	=> trọng tâm về quyền riêng tư, xử lý, tài phán xuyên biên giới
+	nêu ra các quy định cho việc xử lí dữ liệu, áp dụng cho bất cứ thực thể nào
+	sử dụng data của người dân Brazil
+____________________________________________________________________________________________
+HIPAA - Health Insurance Portability and Accountability Act.
+ 	Đạo luật về trách nhiệm giải trình và cung cấp bảo hiểm y tế. 
+
+	=> để số hóa hệ thống chăm sóc sức khỏe
+	chống lãng phí, gian lận và lạm dụng BHYT
+	là qui định chuyên biệt cho 1 ngành do dữ liệu sức khỏe cũng rất nhạy cảm
+		# khả năng di chuyển dữ liệu của người dùng khi họ thay đổi công việc
+___________________________________________________________________________________________
+COPPA - Children's Online Privacy Protection Act.
+	Đạo luật Bảo vệ Quyền riêng tư Trực tuyến của Trẻ em. 
+	
+	ra đời do lo ngại về việc thu thập thông tin của trẻ em < 13 tuổi
+	to inform parents about the risks of children's online 
+		thông báo cho phụ huynh biết những rủi ro khi trẻ online
+	
+	đưa ra các hướng dẫn rõ ràng cho các tổ chức sử dụng dữ liệu
+	nêu ra những điều mà các trang web cần phải đưa vào privacy policy
+		# yêu cầu sự đồng ý và sự tham gia của người giám hộ
+		# để bảo vệ trẻ em một cách tốt hơn
+___________________________________________________________________________________________
+Algorithmic Accountability Act
+	Đạo luật về trách nhiệm giải trình thuật toán
+	
+	các thuật toán tham gia vào các quyết định của chúng ta ngày càng nhiều
+	
+	must detect and remove any discriminatory biases which are embedded 
+	in their computer models.
+	=> cần loại bỏ bất cứ thiên vị, phân biệt hay thành kiến nào trong các mô hình
+	
+	--> yêu cầu phải có đánh giá về hệ thống
+ 	=> hạn chế các loại suy luận có thể rút ra (như người da màu thích cái nào hơn,...)
+	
+		# đưa trách nhiệm giải trình thuật toán vào hơn là quyền riêng tư
+____________________________________________________________________________________________
+FERPA - Family Educational Rights and Privacy Act.
+	Quyền Giáo dục Gia đình và Đạo luật Quyền riêng tư.
+
+	tránh lạm dụng hồ sơ học sinh
+	quản lí quyền tru cập vào hồ sơ và thông tin của các tổ chức giáo dục
+
+	cho phép phụ huynh truy cập vào hồ sơ giáo dục của đứa trẻ đó
+	sửa đổi hồ sơ, thực hiện một số kiểm soát về việc tiết lộ thông tin trong hồ sơ đó
+	
+	nếu học sinh đủ 18 tuổi, cần có sự đồng ý của học sinh
+	có một số cơ chế khác nhau với các loại thông tin các nhau
+	tránh trường hợp lấy được thông tin của 1 hs làm lộ thông tin cảu nhiều hs khác
+____________________________________________________________________________________________
+BIPA -  Biometric Information Privacy Act.
+	Đạo luật bảo mật thông tin sinh trắc học.
+	
+	thông tin sinh trắc học là tối quan trọng
+	vì nó bất biến và là vĩnh viễn với mỗi cá nhân
+	
+	=> yêu cầu sự đồng ý của cá nhân khi thu thập, sử dụng, tiết lộ
+	   nhằm kịp thời phá hủy thông tin nếu người dùng không đồng ý
+__________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

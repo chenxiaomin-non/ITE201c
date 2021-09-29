@@ -1,0 +1,216 @@
+https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1QnoR89CFeNuUCPpRG39vAvP1weIkwfNM%3Ffbclid%3DIwAR1O8Rg5BG_ABa-RDe-pn78V9iONv1ccooVf4B_pw7Bb7v75soXD5ykFT0U&h=AT0rYCpq7r_JvH1khwQsCsZQHM3XeON3JK-0GQwlq7EwsMsAxC_iFhxxt5jHYg6Q632ePlpy8_sAFD6rMRqHL9NmlY6OJGP-NgBLd5Fnsp-CrxDbxQdd2p2Il9vYEHKlqEkn&__tn__=H-R&c[0]=AT06rSFjNAs0eIXM0kAiOkK2kMl3tqTAM_nOKWjCAx1stIQBCTiWhe9D0QE-3FyJryvK0AYe1YLstJfwrFpqUOBLNaAaXzk_2xwsJlVgrKfBMvMe7gTjBIW7yXD6yJWPCrcxHykTDbV404KlilXlikQSab1KxVCIv2D55CuoYe2_N_4BiD9R2145UO7Pyej049J3vXBRxJeoon-FF8pka8k
+
+There're 3 Major Schools of Philosophical Thought:
+
+	- utilitarianism - thuyết thực dụng
+		học thuyết cho rằng các hành động là đúng nếu chúng hữu ích 
+		hoặc vì lợi ích của đa số. 
+	- deontology, also known as duty-based ethics, 
+		nghiên cứu về bản chất của nghĩa vụ và nghĩa vụ.
+	- and virtue ethics
+		đạo đức về đức hanh
+
+****   Utilitarianism   ****
+	
+	the consequences that matter most for what is ethical or what is not ethical. 
+		=> Hậu quả quyết định cái gì là đạo đức còn cái gì là ko?
+	
+ - Act utilitarianism says that we judge every action by its effect on overall utility. 
+		=> Đánh giá mọi hành động trên ảnh hưởng đến tổng thể
+ - Rule utilitarianism, on the other hand, says that we follow a guideline of general 
+   rules that lead over time to the optimal utility for the most amount of people.
+		=> Phải tuân thủ một số nguyên tắc chung để hướng đến lợi ích của
+			phần lớn số người
+
+=> Trolley problem (cái vấn để củ chuối về cái xe lửa cán 5 hay cán 1 người)
+
+****  Deontology    ****
+		
+		it's a moral theory based on duty
+			=> chỉ là nghĩa vụ, bất kể hậu quả nào
+
+ - Deon với loz Util là đối lập nhau
+ - Deontology is typically known as similar to universal moral laws.
+	=> giống với đạo đức phổ quát
+
+=> The categorical imperative : 
+	which is saying that if you cannot will something to be a 
+	universal law, then don't do it
+
+****   Virtue ethics ****
+	
+	right character comes before right action.
+		=> tính cách tốt sẽ quyết định hành động tốt
+ - To Aristotle, a virtuous person, knows exactly what to do in the right scenario.
+	=> một người có phẩm hạnh tốt biết làm gì là 
+		đúng nhất trong một trường hợp nào đó.
+ - To become a virtuous person, you need to practice
+
+
+____________________________________________________________________________________________
+
+Ethical Framework
+
+You can think of ethical framework as a set of guiding principles that governs 
+how an individual or a company behaves and makes these decisions.
+
+	Philosophical theory is more of the timeless ideals that people talk
+	  about, but aren't exactly actionable.
+		=> Lý thuyết triết học nói chung, tốn thời gian nói về nó,
+			nhưng không hiện thực thành hành động chính xác
+	Ethical framework seeks to mitigate this problem by taking concrete 
+	  steps to make sure that the theory can be actionable.
+		=> Cái qq này sẽ giảm nhẹ cái vấn đề bằng các hiện thực hóa
+			để có hành động chính xác
+=> Điều chúng ta phải làm là xem coi trong những cái Ethical Framework này, cái nào
+là phù hợp với chúng ta, bussiness or customers,..,
+
+____________________________________________________________________________________________
+
+Montreal Declaration for a Responsible Development of Artificial Intelligence
+	Tuyên bố Montreal về sự phát triển có trách nhiệm của trí tuệ nhân tạo 
+
+	This framework is commonly known as the mug shot declaration, 
+	because it was actually developed at the University of Montreal, 
+		to help guide individuals, organizations, companies 
+		and governments in making responsible and ethical choices.
+	When it comes to building and utilizing AI technology.
+
+=> Là một cái framework để hướng dẫn, tổ chức, vận hành, chịu trách nhiệm,...
+	cho việc tạo ra và tối ưu, sử dụng AI
+
+Montreal declaration includes ten fundamental principles:
+	. 1st : Well-being
+		=> Việc phát triển và sử dụng AI phải mang lại hạnh phúc cho human
+	. 2nd : Respect of autonomy => tôn trọng quyền tự chủ
+	. 3rd : Protection of privacy and intimacy. => bảo vệ sự riêng tư
+		có quyền chặn bất kì AI system nào mà quấy rối hay bán dữ liệu of ourself
+	. 4th : Solidarity => sự gắn kết, đoàn kết (giữa human vs human khác)
+		=> AI không nên thay thế các mối quan hệ của con người với nhau
+			thay vào đó nên gắn kết và thúc đẩy chúng
+	. 5th : Democratic participation => có đóng góp vào sự dân chủ
+		=>. phải trang bị các tính minh bạch, giải trình trách nhiệm,... để đạt các
+			tiêu chí về tính dễ hiểu, tiếp cận để chịu sự giám sát dân chủ ?
+	. 6th : Equity => công bằng
+		=> Equaluty : bình đẳng (cào bằng) != Equity : công bằng (ai muốn nhiều 
+							thì sẽ được nhiều, muốn ít nhận ít)
+		=> Việc sử dụng AI phải góp phần tạo ra XH công bằng và bình đẳng
+	. 7th :  Diversity and inclusion principle => đa dạng và hòa nhập
+		=> sự phát triển của các hệ thống AI phải tương thích với việc 
+		duy trì sự đa dạng văn hóa và xã hội, đồng thời không được hạn chế 
+		phạm vi lựa chọn lối sống và kinh nghiệm cá nhân.
+	. 8th : Prudence principle => thận trọng
+		=> cần có các biện pháp phòng ngừa các bất lợi tiềm ẩn của AI
+	. 9th : Responsibility  => trách nhiệm
+		=> trách nhiệm khi xảy ra sự cố không nằm ở AI, mà là người đã vận hành,
+		sử dụng chúng.
+	. 10th : Sustainable development. => phát triển bền vững
+		=> AI phải đảm bảo tính bền vững của môi trường
+
+____________________________________________________________________________________________
+
+Ethics Guidelines for Trustworthy AI
+	một số chỉ dẫn cho AI tin cậy
+
+	They wanted ethical AI to be lawful, ethical, obviously, and robust.
+		=> Họ muốn AI có đạo đức phải hợp pháp, có đạo đức, rõ ràng và mạnh mẽ
+=> structured by the European Commission : thiết kế bởi Ủy ban Châu Âu
+	có sức ảnh hưởng lớn hơn 
+
+____________________________________________________________________________________________
+
+Beijiing AI Principles
+	Nguyên tắc cho AI - Bắc Kinh
+
+	they wanted to make sure that human privacy, dignity, freedoms were 
+	going to be respected and protected by artificial intelligence, and 
+	that AI won't be used to harm human beings.
+
+Có 3 phần : 
+	the first part is for AIRD, research, and development; 
+	the second part is principles for the use of artificial intelligence; 
+	and the third one is principles for the governance of AI.
+
+Một số nguyên tắc :
+	phải làm điều tốt cho nhân loại
+	tôn trọng giá trị của chúng ta, nó phải hiểu con người, nó phải vì con người
+	nó phải chịu trách nhiệm hoặc công nghệ này phải được tạo ra một cách có 
+		đạo đức và có trách nhiệm để nó có thể chịu trách nhiệm trong trường 
+		hợp có bất cứ điều gì sai trái.
+
+the primary focusof the Beijing AI principles is obviously R&D
+	=> tập trung vào đảm bảo chia sẻ dữ liệu, tính mở dữ liệu
+
+___________________________________________________________________________________________
+
+Universal Guidelines for Artificial Intelligence
+	Nguyên tắc chung cho AI
+
+	And its goal was to promote transparency and accountability for 
+	artificial intelligence systems and to ensure that people retain control over 
+	the technology that they create. 
+	One important principle that you'll be seeing within the UGIA is 
+	its emphasis on important human rights.
+=> Nhấn mạnh sự kiểm soát và quyền con người.
+
+__________________________________________________________________________________________
+
+Top 10 Principles for Ethical Artificial Intelligence
+	Top 10 nguyên tắc cho AI một cách đạo đức
+
+Number 1, demanding that AI systems are transparent
+		minh bạch
+Number 2, equip AI systems with an ethical black box. 
+	we have a system in place that monitors and records all of the 
+	AI's ethical decision-making processes. 
+Number 3, make AI serve people and the planet. 
+Number 4, adopt a human-in-command approach 
+	con người chỉ huy
+Number 5, ensures a genderless and unbiased AI. => phi giới tính và thiên kiến
+Number 6, share the benefits of AI systems. 
+Number 7. It says that it's to secure a just transition and ensuring 
+	support for fundamental freedoms and rights. 
+	=> đảm bảo quyền lợi cho người mất việc do AI
+Number 8 is to establish a global governance mechanism. 
+Number 9, establishes the attribution of responsibility to robots.
+Number 10, to ban the AI arms race. => không chạy đua về AI
+
+____________________________________________________________________________________________
+OECD Principles on Artificial Intelligence and the G20 AI Principles
+
+	First of all, the OECD wanted to promote AI that is innovative and trustworthy 
+	and respects human rights and democratic values. 
+	
+	It's broken up into two parts. The first part is a set of five principles, 
+	five sets of recommendations for governments on how to implement these principles. 
+
+___________________________________________________________________________________________
+Ethically Aligned Design (IEEE)
+	
+	IEEE, Ethically Aligned Design or EAD for short, designed by its 
+	global initiative on Ethics of Autonomous and Intelligent Systems, what 
+	they call AIS.
+
+	đây là một tài liệu dài hơn 300 trang. 
+	Nó được tổ chức thành 11 phần hoặc chương chính.
+	các giá trị nhân văn phổ quát, quyền con người, trách nhiệm giải trình, 
+	cung cấp bằng chứng về tính hiệu quả, sự ổn định và bền vững về kinh tế 
+	hoặc môi trường,...Ngoài ra, nó cung cấp các khuyến nghị về chính sách và luật pháp. 
+
+____________________________________________________________________________________________
+Asilomar AI principles
+	được phát triển bởi Future of Life Institute kết hợp với hội nghị Asilomar 2017
+
+	this framework really revolves around main ideas, that being of transparency, 
+	equal access to AI, privacy, and most importantly and most uniquely 
+	actually, capability caution.
+____________________________________________________________________________________________
+The Toronto Declaration
+
+	this declaration is a little unique in that it specifically focuses on 
+	human rights, particularly on protecting the rights to equality and 
+	non-discrimination in machine learning systems in the context of 
+	governmental obligations.
+____________________________________________________________________________________________
+
+

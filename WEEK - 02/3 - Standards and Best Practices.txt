@@ -1,0 +1,131 @@
+Standard
+	Tiêu chuẩn
+
+	A standard is a mutually agreed-upon set of rules or guidelines that are 
+	created by sets of general industry players.
+	=> tập hợp các qui tắc hoặc hướng dẫn mà được đồng thuận bởi các bên
+	=> tăng khả năng tương tác, điều chỉnh,...
+
+	Standards are much more focused on specifics as they relate to the implementation 
+	of ideas and are geared towards providing concrete guidance in terms of 
+	technical and policy details so that those ideas can be operationalized.
+	=> tập trung nhiều hơn vào các chi tiết cụ thể,
+	hướng tới việc cung cấp hướng dẫn cụ thể, để những ý tưởng đó có thể được thực hiện.
+
+	Các tiêu chuẩn thường được tạo ra khi cơ quan hoặc ủy ban tiêu chuẩn được 
+	tập hợp bằng cách tìm kiếm các chuyên gia về chủ đề có kiến ​​thức chuyên môn sâu.
+	được điều chỉnh và chấp nhận liên tục
+____________________________________________________________________________________________
+PCI DSS - payment card industry data security standard
+	tiêu chuẩn bảo mật dữ liệu ngành thẻ thanh toán 
+	
+	ensuring that merchants must meet minimum levels of security when they 
+	store, process, and transmit cardholder data.
+	=> các đơn vị chấp nhận thẻ phải bảo mật trong các quá trình lưu, xử lí 
+	truyền dữ liệu của chủ thẻ
+
+	The focus of the PCI DSS is to build and maintain a 
+	secure network and systems to protect cardholder data.
+	=> trọng tâm là xây dựng và duy trì một mạng an toàn và 
+		các hệ thống để bảo vệ dữ liệu của chủ thẻ.
+
+	thông tin tài chính có thể lợi dụng để tìm hiểu về hành vi và sở thích cảu chủ thẻ
+	=> yêu cầu trách nhiệm giải trình
+____________________________________________________________________________________________
+NIST Standards 
+	NIST stands for the National Institute of Standards and Technology.
+	
+	NIST standards of particular interest to data-driven technologies include 800.53
+	=> NIST-S quan tâm đến các công nghệ hướng dữ liệu bao gồm 800.52
+	bao gồm các biện pháp kiểm soát bảo mật và quyền riêng tư
+
+	 NIST standards are based on best practices from 
+	several security documents, organizations, and publications.
+	=> NIST-S dựa trên các tài liệu hay nhất và cả tuyệt mật
+	cung cấp rất nhiều tài liệu tham khảo, dùng để làm tiêu chuẩn tham chiếu
+
+	NIST SP 800.53 defines the standards and guidelines
+		to architect and manage their information security systems.
+	=> đề ra các tiêu chuẩn và hướng dân bảo mật, kiến trúc và quản lí các hệ thống 
+	
+	cybersecurity framework - CFS
+	CSF provides a policy framework of computer security guidance 
+		...improve their ability to prevent, detect and respond to cyberattacks
+CFS cung cấp các khung chính sách về ngăn chặn, phát hiện, ứng phó các cuộc tấn công mạng
+	ngoài ra cũng cung cấp các hướng dẫn cho việc tự đánh giá
+____________________________________________________________________________________________
+CIS CSC - Center for Internet Security Critical Security Controls
+
+	để ứng phó với các tổn thất sữ liệu mà các tổ chức quốc phòng Hoa Kì trải qua
+
+	The CIS CSC is focused on leveraging cyber offense to inform cyber defense, 
+	focusing on high payoff areas, ensuring that security investments are focused 
+	to counter the highest threats.
+	=> tập trung vào các tội phạm mạng để thông báo cho phòng thủ mạng
+	   tập trung vào các lĩnh vực có lợi ích cao, chống lại các mối đe dọa lớn nhất
+
+		# tối đa tự động hóa, tránh lỗi của con người
+		# tập trung vào các yếu tố an ninh mạng
+	áp dụng cho bất cứ tổ chức nào sử dụng hạ tầng mạng để xử lí, phân tích dữ liệu
+	cá nhân khách hàng
+	=> chủ yếu là các yếu tố về quyền riêng tư, bảo mật
+___________________________________________________________________________________________
+ISO Standards
+	
+	ISO standards, which apply particularly to data-driven technologies include 
+		27001 Information Security Management, 
+		27017 Cloud Security, 
+		and 27018 Information Technology Security Techniques. 
+	=> tầm vóc quốc tế, đồng thuận từ nhiều tổ chức, quốc gia thành viên
+	=> đưa ra các yêu  cầu, các tổ chức đáp ứng được sẽ được chứng nhận
+
+	ISO 27001 - chứng nhận về hạ tằng mạng, bảo mật thông tin
+		=> yêu cầu phải chứng minh được các yêu cầu cơ bản về bảo mật thông tin
+	ISO 27017 - chứng minh bảo mật cho Cloud
+		=> cung cấp tiêu chuẩn bảo mật Cloud cho nhà cung cấp dịch vụ và 
+		   người dùng, quy định ai sẽ chịu trách nhiệm khi xảy ra sự cố,...
+	ISo 27018 - chứng chỉ dành riêng cho các nhà cung cấp dịch vụ đám mây
+____________________________________________________________________________________________
+NISTIR 8288 
+
+	was created to address cybersecurity and privacy concerns 
+	with the increasing use of IoT devices.
+	=> được tạo ra để giải quyết vấn đề về bảo mật các thiết bị IoT
+
+	nhiều thiết bị IoT có các cách vận hành, trao đổi thông tin, tương tác,...
+	khác nhiều so với các thiết bị còn lại
+	=> các mối lo về quyền riêng tư và an ninh mạng.
+		# một trong số rất ít các tiêu chuẩn về IoT
+____________________________________________________________________________________________
+MITRE ATT&CK Framework
+
+	được tạo ra để hướng dẫn các nhà phát triển dựa trên data từ
+	real-life attack tactics and techniques 
+	=> tìm hiểu các cách tấn công, các mô hình để giảm thiểu Risk & Consequence
+	
+	chia thành nhiều nhánh, mỗi nhánh lại có các chi tiết về từng bước mà một hacker
+	có thể thực hiện để tấn công
+	còn dựa theo nhóm tin tặc và các loại tấn công mà nhóm đó hay sử dụng
+	=> áp dụng từ thực tiễn, cố giá trị cao
+____________________________________________________________________________________________
+IEEE 7000 Series
+	IEEE is the Institute for Electrical and Electronics Engineers.
+	
+	thiết lập một tiêu chuẩn toàn cầu qua các tài liệu, thông số kĩ thuật, các 
+	best practice,...
+	các tiêu chuẩn dòng 7000 được chia thành nhiều chuỗi khác nhau
+	mỗi chuỗi tập trung theo 1 hướng nhất định
+	=> đều dựa trên  các giá trị đạo đức, các yêu cầu đạo đức và 
+		thiết kế dựa trên rủi ro đạo đức. 
+	ngoài ra còn nhiều tiêu chuẩn khác như mức độ tin cậy, policy, đồng cảm,...
+
+
+
+
+
+
+
+
+
+
+

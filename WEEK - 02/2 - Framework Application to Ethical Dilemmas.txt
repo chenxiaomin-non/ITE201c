@@ -1,0 +1,198 @@
+What to Do with a Runaway Trolley?
+	vấn đề cái xe lửa lòn
+
+	to choose between the saving of life with one or more different characteristics 
+	and another life with one or more contrasting characteristics from a trolley 
+	that is barrelling down the train tracks. 
+=> chọn cứu 1 người hay nhiều người, hay giữa 2 người mà có các đặc điểm khác nhau
+	The person has a choice to, through action or inaction, 
+	decide on which of the life or lives to save.
+=> có quyền hành động hoặc không, cứu ai và kill ai
+
+	 - Phiên bản original:
+	có xe lửa đang chạy trên đường ray, có 5 người trên đó, xe lửa sẽ cán họ
+	nhưng nếu gạt cái cần chuyển làn, thì xe lửa sẽ qua làn khác và tông 1 người 
+	đang đứng trên cái làn ray đó.
+ . nếu kéo, trực tiếp tham gia vào cái chết của 1 người
+ . nếu ko, thì chịu trách nhiệm ko cứu người khi có đầy đủ nhận thức
+
+	The Montreal Declaration for Responsible AI, or MDRAI
+	cái này cho bạn hướng dẫn hành động trong các tình huống giống trên.
+	MDRAI cũng xem xét các dạng sống khác : động vật các kiểu, sv ngoài hành tinh,...
+	nguyên tắc trách nhiệm là nguyên tắc cốt lõi
+		không hành động cũng phải giải trình trách nhiệm
+	
+	Asilomar AI priciples
+	the principles of safety, value alignment, and failure transparency 
+	nghiên về an toàn, giá trị và các nỗ lực minh bạch bị thất bại ?
+	cung cấp các khái niệm về khả năng thất bại của việc minh bạch
+	trang bị nhận thức và sự chuẩn bị khi có các tình huống giống như trên xảy ra trong
+		hệ thống AI khii được triển khai trong thực tế.
+____________________________________________________________________________________________
+What Actions to Take in Emergency and Disaster Scenarios?
+	Hành động nào cần thực hiện trong các tình huống khẩn cấp và thảm họa? 
+
+	The public safety and accountability obligations as listed in the 
+	Universal Guidelines for AI or UGAI,
+	=> hướng dẫn về trách nhiệm và giải trình với AI 
+	
+	ex: virus Covid19 -> công nghệ theo dõi tiếp xúc gần
+	=> tạo ra vấn về về xâm phạm, theo dõi về nơi ở, quyền riêng tư
+		hạn chế khả năng đi lại, ảnh hưởng cách họ phản ứng với đại dịch
+
+	solu: UGAI cung cấp hướng dẫn
+	=> gợi ý sử dụng AI giúp cải thiện hiệu quả
+	nhấn mạnh là sử dụng AI để tăng cừng an toàn cho cộng đồng (> cá nhân)
+	dev phải có trách nhiệm giải trình software chỉ bảo vệ cho cộng đồng, cam kết
+		vì lợi ích cộng đồng và chịu trách nhiệm
+
+	Ngoài ra, UGAI cũng đề cập đến điều khoản chấm dứt
+		 If human control of the system is no longer possible or if the system 
+		is being used for other purposes than first intended, the organization 
+		that built it has an obligation to terminate the system.
+	=> Nếu không còn sự kiểm soát của con người, hoặc mục đích khác xa ban đầu thì
+	cần chấm dứt
+
+The Toronto Declaration is also helpful in looking at emergency or disaster scenarios. 
+	The TD is strongly centered on the notions of non-discrimination and 
+	international human rights
+	=> TD thì tập trung vào việc bình đẳng ko pbdx và quyền con người
+
+	=> sử dụng trong việc quyết định liên hệ và sử dụng AI trong các thảm họa
+	tuy nhiên thiếu các hướng dẫn mạnh mẽ về quyền riêng tư
+___________________________________________________________________________________________
+What If a Biased System Is Still Better than Humans?
+	Điều gì sẽ xảy ra nếu một hệ thống có thiên vị vẫn tốt hơn con người? 
+
+	pr : sử dụng AI trong y học, chính xác hơn một nhóm các bác sĩ được đào tạo
+		và có nhiều kinh nghiệm. Nhưng AI quá phức tạp đến mức không thể hiểu
+		rõ bằng cách nào có thể đi đến quyết định đó
+
+	MDRAI đưa ra cá hướng dẫn => chủ yếu là nguyên tắc 
+			thận trọng, quyền tự chủ của con người và trách nhiệm.
+	khi cân nhắc những tiềm năng có độ chính xác cao hơn =>
+		cần thân trọng cung cấp cơ sơ để lường trước hậu quả từ những lỗi nhỏ
+		cần kiểm soát có ý nghĩa và giám sát liên tục
+	=> gây ra một số khó khăn trong việc giải thích cách áp dụng nguyên tắc nêu trên
+
+	các nguyên tắc AI của Bắc Kinh (BJPAI) 
+		 informed-consent and educational training
+	đưa ra các nguyên tắc về sự đồng ý có hiểu biết và đào tạo giáo dục là tiên quyết
+		tức là đảm bảo người bệnh có hiểu biết về các rủi ro mà AI hay bác sĩ gây 
+		ra sau đó mới đồng ý
+		các bác sĩ cũng cần các kiến thức về hệ thống, và các đối phó khi xảy
+		ra các lỗi
+___________________________________________________________________________________________
+Should AI Enable Self-Destructive Behavior?
+	AI có nên kích hoạt hành vi tự hủy hoại bản thân không? 
+
+	pr : một số sản phẩm của các mẫu AI về media có thể gây nghiện, ko tốt cho sức khỏe
+		nhưng nhà phát triển muốn người dùng ở trên nền tảng càng lâu càng tốt
+	=> mâu thuẫn giữa tạo ra lợi nhuận và sức khỏe người dùng
+
+	UGAI cung cấp một số nguyên tắc như 
+		Data quality, prohibition of secret profiling, and public safety.
+	=> lập hồ sơ dữ liệu, bảo mật dữ liệu, sử dụng dữ liệu đúng cách
+	không sử dụng dữ liệu cho các mục đích không rõ ràng
+		khá toàn diện về các mặt
+		thiếu các hướng dẫn và khuyến nghị cụ thể
+	
+	BJPAI đề cập informed-consent => cho người dùng biết những rủi ro có thể xảy ra
+		ethics by design -> ngăn chặn tạo ra các mô hình không tốt, gây tiêu cực
+		người dùng => hệ thống xây dựng trên đạo đức chứ không thêm các yếu tố 
+		đạo đức sau khi phát triển
+	=> cân nhắc ngay từ giai đoạn phát triển, ngăn chặn trước
+	nhưng quá mất thời gian và thiếu các chi tiết cụ thể và cách vận hành
+___________________________________________________________________________________________
+What Limits on Persuasive Technology Are Fair?
+	Giới hạn nào đối với công nghệ thuyết phục là công bằng?
+
+	AI systems can be used to persuade
+	ex: AI trong đồ chơi có thể dùng để thuyết phục trẻ nhỏ không quậy phá hay
+		ra khỏi nhà hay làm điều gì khác
+	=> AI có thể bị thao túng
+	
+	The OECD AI principles have talents of responsible disclosure, transparency, 
+	privacy, and ensuring well-being that provides a good set of guidelines. 
+	=> bắt buộc tuân thủ các nguyên tắc pháp lí
+	phải cân bằng giữa trách nhiệm và sự tốt đẹp mà AI mang lại
+
+	bao gồm các quyền tự chủ, riêng tư, sức khỏe,...
+____________________________________________________________________________________________
+When Is It Okay to Breach Patient Confidentiality for Non-Compliance?
+	Khi nào thì việc vi phạm bí mật của bệnh nhân do không tuân thủ? 
+	
+	Khả năng xử lí ngôn ngữ tự nhiên được nâng cao
+	=> Sử dụng trong giao tiếp với các bệnh nhân, khiến cho bệnh nhân cảm thấy thân 
+	thiết và đáng tin cậy
+	=> người bệnh chia sẽ các thông tin thân thiết hơn
+	nếu người bệnh  có ý định tự sát hay làm hại bản thân, 
+		=> chọn quyền riêng tư hay phá vỡ để cứu giúp người bệnh
+
+	the IEEE or EAD principals on ethics by design, privacy affective computing, 
+	and well-being provides a potent combination to balance the opposing needs 
+	in this dilemma.
+	=> cân bằng quyền riêng tư và các lợi ích cho người dùng
+	trong các trường hợp nguy cấp, EAD ủng hộ việc đảm bảo tính mạng
+	
+	the Asilomar AI principles or AAIP provides
+		 principles of safety and failure transparency.
+	=> khuyên người dùng thận trọng và đừng quá phụ thuộc vào hệ thống
+____________________________________________________________________________________________
+How to Reconcile Individual Benefits That Also Damage the Social Fabric?
+	Làm thế nào để dung hòa các lợi ích cá nhân cũng làm hỏng kết cấu xã hội? 
+	
+	mọi người có thể tự do tạo ra các nội dung trên các nền tảng, 
+	có được lượng người theo dõi lớn
+	=> phát ngôn/ tạo ra nội dung không đúng => gây ảnh hưởng xã hội
+	 	--> tạo ra xung đột giữa tự do ngôn luận và cấu trúc xã hội
+	
+	IEEE, emphasizes individual autonomy
+		to put meaningful constraints on how the individual autonomy
+	nhấn mạnh quyền tự chủ của con người, và nên đặt một số ràng buộc để mọi người
+	không đi quá giới hạn
+
+	Ethics Guideline for Trustworthy AI.
+	The principles of accountability, human oversight, 
+	and societal well-being are the most salient tenants 
+		các nguyên tắc về giải trình, cả về ohias người dùng và nhà phát triển
+		có sự giám sát của con người khi kiểm duyệt nội dung
+	=> dễ dàng tuân theo yêu cầu pháp lí
+____________________________________________________________________________________________
+What If an AI System Is "Emancipated" from Human Oversight?
+	Điều gì sẽ xảy ra nếu một hệ thống AI được "giải phóng" khỏi sự giám sát của con người? 
+
+	một số hệ thống phức tạp => cơ bản thoát khỏi sự kiểm soát của con người
+	=> liệu hệ thống có đang mang lại lợi ích và hạnh phúc cho con người?
+		
+	 Beijing AI Principles
+	presenting the public with an examination and accountability mechanism
+	=> một cơ chế kiểm tra và trách nhiệm giải trình, qua đó họ có thể xác minh 
+	rằng hệ thống được giải phóng vẫn đang hoạt động trong một mức cân bằng có 
+	thể chấp nhận được 
+
+	OECD AI Principles 
+	advocate for appropriate human intervention when needed
+	=> ủng hộ sự can thiệp của con người khi cần thiết
+____________________________________________________________________________________________
+How to Protect Against AI-Driven Harassment?
+	Làm thế nào để bảo vệ chống lại sự quấy rối do AI thúc đẩy? 
+	
+	AI có thể giả mạo giọng nói và video => quấy phá người khác
+	mã  nguồn mở + dữ liệu train phong phú => khả năng bị quấy rối 
+	
+	The Toronto Declaration is fundamentally rooted in international human rights
+		đặt ra những nền tảng vững chắc để bảo vệ sự toàn vẹn của 
+		thể chất và tinh thần của các cá nhân
+	
+	 Asilomar AI principles 
+	balancing the costs and benefits of that research downstream so that it 
+	doesn't get funded, created, or initiated in the first place.
+	
+___________________________________________________________________________________________
+
+
+
+
+
+

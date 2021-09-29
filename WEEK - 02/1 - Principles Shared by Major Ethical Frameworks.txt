@@ -1,0 +1,105 @@
+Privacy - quyền riêng tư
+	in this context, privacy is almost always, usually taken to mean 
+	data protection or data security,
+	quyền riêng tư hầu như luôn luôn, thường được coi là bảo vệ dữ liệu 
+	hoặc bảo mật dữ liệu
+
+	a lot of times privacy is completely intertwined with the ideas
+	of freedom and free will.
+
+To protect the principle of privacy, this is usually done in one of three ways:
+ - Technical solutions
+ - more research, more awareness, more regulation 
+        =>nghiên cứu nhiều hơn, nhận thức nhiều hơn, nhiều quy định hơn.
+ - certifications 
+	=>  chứng nhận hoặc việc tạo ra các luật và quy định mới dành 
+	riêng cho AI, là cách tốt nhất để bảo vệ các cá nhân và bảo vệ 
+	nguyên tắc riêng tư trên quy mô lớn hơn. 
+____________________________________________________________________________________________
+accountability and responsibility
+	trách nhiệm giải trình và trách nhiệm
+
+There are three core principles within the accountability gap that is an issue.
+The first one is causality. Who was the greatest cause for the harm if the AI messes up? 
+	=> nhân quả, ai là nguyên nhân lớn nhất
+Or justice, that's the second one, who do we punish? Who do we get retribution for? 
+	=> chúng ta trừng phạt ai? Chúng ta bị quả báo vì ai?
+The third one is reparations. Who's on the hook to pay up if the AI messes up? 
+	=> bồi thường. ai sẽ trả tiền 
+
+Although accountability is cited so often in these frameworks, 
+there is really still no general consensus as to who really should be accountable.
+=> vẫn chưa có sự thống nhất chung về việc ai thực sự phải chịu trách nhiệm
+____________________________________________________________________________________________
+Transparency and Explainability
+	Tính minh bạch và khả năng giải thích
+
+	to make it easier for everyone to understand exactly what AI is doing.
+	explainability and interpretability like I said were subsets or 
+	subcategories of transparency. And these are often used interchangeably, 
+	but there aren't actually the same thing.
+
+tính minh bạch, khả năng giải thích và khả năng diễn giải như 
+những nguyên tắc chính. Đôi khi chúng được sử dụng thay thế cho nhau, 
+
+	explainability is really the extent by which the internal mechanics of 
+	a machine or deep learning algorithm can be explained in human terms. 
+	transparent AI is explainable AI
+____________________________________________________________________________________________
+Fairness and Non-Discrimination
+	công bằng và không phân biệt đối xử
+	
+	there is really no globally accepted universal definition
+		=> không có 1 định nghĩa được chấp nhận toàn cầu
+	fair algorithm -> một thuật toán công bằng
+	 just having results that are independent of giving characteristics such as 
+	gender, ethnicity, sexual orientation, things of that nature that are 
+	protected characteristics => không dựa vào các đặc điểm trên
+	equal access => truy cập bình đẳng
+____________________________________________________________________________________________
+Safety and Security
+	An toàn và Bảo mật
+	
+	AI not doing any foreseeable or intentional harm against human beings
+	=> And harm in this context is typically interpreted to mean 
+		discrimination, violations of privacy, and most obviously, bodily injury.
+	=> AI ko gây hại, nghĩa là ko xâm phạm, tổn thương các quyền và cơ thể
+
+	safety and security can be interpreted as a product of other principles
+		=> be explainability and transparency
+  => an toàn là kết quả của các nguyên tắc khác, đặc biệt là minh bạch và giải thích được
+___________________________________________________________________________________________
+Human Control of Technology
+	kiểm soát công nghệ
+
+	- có 2 tiên đề :
+	- không chấp nhận máy móc tiếp tục hoạt động mà ko có sự giám sát của con người
+	- một hành động thao tác được máy móc gợi ý, mà người thực hiện không có nhận thức
+		về nó thì sẽ ko được coi là kiểm soát.
+___________________________________________________________________________________________
+Professional Responsibility
+	Trách nhiệm nghề nghiệp 
+
+	 one of those principles that aren't really talked about or defined
+	=> nguyên tắc ít đc nói đến hoặc định nghĩa rõ ràng
+	
+	encouraging a professional to use artificial intelligence to enhance their 
+	abilities versus making sure that it doesn't replace them in the long run. 
+	=> câu hỏi: dùng AI để năng cao tay nghề hay bị thay thế bởi AI ?
+___________________________________________________________________________________________
+Promotion of Human Values
+	Thúc đẩy giá trị con người
+
+	All the principles are really human values 
+	that we have determined to be necessary for the design implementation and 
+	execution of autonomous technologies.
+	=> các khuôn khổ đạo đức cho AI đều hướng đến thúc đẩy các giá trị chô con người
+	đặc biệt là các giá trị nhân văn
+
+
+
+
+
+
+
+
