@@ -26,11 +26,107 @@ Availability of Datasets for Machine Learning Algorithms
 
     ML làm việc với nhiều dữ liệu => thu thập nhiều data hơn
 
-    Bảo vệ quyền riêng tư đề cập đến việc bảo vệ PII (personal ID), 
+    Bảo vệ quyền riêng tư đề cập đến việc bảo vệ PII (personal iden info), 
     thông tin nhận dạng cá nhân, khỏi tiết lộ trái phép ngoài mục đích 
     đã nêu.
     nhiều data = đạt được nhiều mục đích hơn, đạt được nhiều 
         != vi phạm các quyền riêng tư nếu người dùng ko biết và đồng ý
 ____________________________________________________________________________
+Data Minimization Principle vs. Need for Data
+    Nguyên tắc giảm thiểu dữ liệu so với nhu cầu về dữ liệu 
+
+    trong quá trình đăng kí sử dụng trang web, cung cấp rất nhiều PII   
+    các công ty có thể dùng thông tin đó với nhiều mục đích
+
+    DMP chỉ cho phép thu thập data ở mức tối thiểu, thời gian sử dụng tối thiểu
+    nhưng nhu cầu về dữ liệu cần rất nhiều dữ liệu (ex : big data,...)
+    và tìm cách tối đa hóa lượng thông tin,...
+        => mâu thuẫn
+    
+    IEEE's Ethically Aligned Design cung cấp các hướng dẫn để giải quyết vấn đề
+    này bằng cách nêu lên những giới hạn mà thông tin có thể được thu thập
+    đồng thời cũng cần việc đồng ý có hiểu biết của người dùng
+__________________________________________________________________________
+Compliance vs. Cost
+    Tuân thủ so với Chi phí 
+
+    thu thập dữ liệu cá nhân trên toàn cầu => tuân thủ GDPR, LGPD,...
+    rất tốn tài chính, sức lực, thời gian,... khi phải qua nhiều bước 
+
+    doanh nghiệp muốn giảm thiểu chi phí, nhưng muốn toàn cầu hóa
+        => mâu thuẫn vì phải tuân theo nhiều Framework khác nhau
+
+    tuân thủ các framework có thể làm trì hoãn thời gian ra mắt sản phẩm
+        => mất yếu tố cạnh tranh
+    không đủ điều kiện tuân thủ => mất uy tín
+    có thể giải quyết bằng mời các ethical avisor về tư vấn
+____________________________________________________________________________
+Performance vs. Explainability
+    Hiệu suất so với Khả năng giải thích
+
+    xây dựng hệ thống dự đoán khách hàng dựa trên hành vi của họ
+    nhằm giữ lại các khách hàng tiềm năng
+    thử rất nhiều phương pháp, hiện tại đang thử nghiệm với các loại ML
+        => nghe bảo là hiệu suất cao hơn nhưng ko biết cách nó đưa ra các 
+        quyết định
+    ngay cả khi mô hình có hiệu suất cao, nhưng khó explain thì có thể 
+    đối mặt với giải trình, kiện tụng
+    => mời các chuyên gia về cố vấn là 1 trong các giải pháp
+____________________________________________________________________________
+Transparency/Explainability vs. Intellectual Property Rights
+    Tính minh bạch / khả năng giải thích so với Quyền sở hữu trí tuệ 
+
+    phát triển được một mô hình gì đó có hiệu suất cao, tuy nhiên có một
+    số bộ phận nhỏ những quyết định cần phải giải thích vì nó khá kì lạ 
+    => bị yêu cầu tiết lộ hoạt động bên trong của mô hình
+    => lộ bí mật, tiết lộ quyền sở hữu trí tuệ
+    => mất lợi thế
+
+    ủy thác cho R&D, sử dụng một số công cụ như LIME, SHKP và các chứng cứ 
+    khác để bảo vệ cho sở hữu trí tuệ
+    chỉ những chi tiết cần được tiết lộ mới phải tiết lộ
+____________________________________________________________________________
+Company/Stakeholder Needs vs. Ethical Decision Making
+    Nhu cầu của Công ty / Bên liên quan so với Ra quyết định có đạo đức 
+
+    các hệ thống chỉ đường, điều chỉnh lưu lượng, tránh kẹt xe
+    => đưa lưu lượng vào các tuyến đường thay thế, dài hơn,....
+    khiến cho các khu dân cư yên tĩnh -> ồn ào, khó chịu
+    các tài xế, chủ xe phải đi đường dài hơn, tốn nhiên liệu hơn,...
+        => nhưng đỡ phải thường xuyên bảo trì các tuyến đường lớn
+                => có thể gây ùn tắc
+    
+    => cân nhắc lợi ích cho phần đông, điều gì là tối ưu
+    => cần các quá trình tham vấn từ các bên để tìm ra hướng tối ưu
+_____________________________________________________________________________
+Military Effectiveness vs. Risk of Collateral Damage
+    Hiệu quả Quân sự so với Rủi ro Thiệt hại Không đáng có
+
+    ủy nhiệm cho máy bay không người lái
+    => giảm hy sinh con người, người lính đỡ cảm giác tội lỗi,...
+       hiệu quả chính xác hơn, tỉ lệ thành công cao,...
+    nhưng nếu hoạt động không chính xác => gây thiệt hại không mong muốn
+
+    The Military Code of Ethics chịu trách nhiệm đưa ra các yêu cầu, quyết
+    định, hướng dẫn,...cho các hệ thống tự động,...
+    => nên chịu sự giám sát từ các cơ quan dân sự và quân sư
+_____________________________________________________________________________
+Efficiency vs. Systemic Fragility
+    Tính hiệu quả so với Tính dễ tổn thương của hệ thống
+
+    Systemic fragility refers to how unforeseen patterns of use may 
+    undermine the robustness of a system or a platform.
+    => không lường trước được các cách sử dụng một hệ thống gây hại cho nó
+
+    các thuật toán sử dụng hành vi tương tác của người dùng để gợi ý tốt hơn
+    cho các người dùng tương tự hoặc ở gần họ   
+    => một số người lợi dụng thuật toán đó để phổ biến rộng rãi các nội
+    dung xấu, độc, sai lệch => hệ thống bị ngu đần
+
+    Systems thinking, will enable one to map the crossover boundaries 
+    between different components of the system.
+    => cho phép lập bản đồ tương tác giữa các phần khác nhau của hệ thống
+    => đảm bảo các tương tác diễn ra đúng như mong đợi
+
 
 
