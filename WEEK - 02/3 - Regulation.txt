@@ -12,7 +12,7 @@ Regulation
 => Có thể đưa các EF vào các qui định về kĩ thuật
 ___________________________________________________________________________________________
 The Code of Fair Information Practices
-	Quy tắc Thực hành Thông tin Công bằng
+	Quy tắc Thực hành Thông tin Đúng đắn
 
 	The Code of Fair Information Practices regulation was initiated in response to 
 	the rising use of personally identifiable information in automated data systems.
