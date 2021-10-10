@@ -30,3 +30,12 @@ First-Party vs. Third-Party Data
         => bất kỳ dữ liệu nào bạn đã thu thập trực tiếp từ khách hàng 
         First-party data is usually the most valuable type of data that 
         an organization collects
+
+        đôi khi dữ liệu của người dùng được báo cáo cho tổ chưc àm người dùng không biết
+        hay không biết cách xử lí dữ liệu
+    Third-party data is usually collected from one or more sources where you, 
+    the collector, do not have a direct relationship with the users that the data is about.
+        => bên thứ 3 không có mối quan hệ  trực tiếp với người dùng
+        => nhìu tổ chức tổng hợp và bán thông tin khách hàng cho bên thứ 3
+        => mang tính chất thống kê nhiều hơn
+    
