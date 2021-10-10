@@ -1,0 +1,72 @@
+Distributions
+    Sự phân phối 
+
+    để đánh giá các rủi ro => cần biết về thống kê xác suất
+
+    phân phối là phân bố tần số của các giá trị trong một biến
+    phân phối dạng normal là dễ gặp nhất, đồ thị hình quả chuông
+
+___________________________________________________________________________________________
+Central Tendency
+    Xu hướng tập trung 
+
+    Central Tendency : xu hướng tập trung của dữ liệu
+    có 3 thước đo
+    arithmetic mean : giá trị trung bình
+    median : giá trị trung vị
+    mode : giá trị xuất hiện với tần số nhiều nhất
+
+    => phân phối càng gần chuẩn thì 3 giá trị càng gần nhau
+___________________________________________________________________________________________
+Variance and Standard Deviation
+    Phương sai và độ lệch chuẩn 
+
+    xem xét sự phân bố các giá trị của phân phối, nó cô đọng lại gần giá trị chuẩn
+    hay trải dài đều trên nhiều giá trị khác nhau?
+    chúng ta dùng phương sai và độ lệch chuẩn
+    => Phương sai càng nhỏ, các giá trị càng tập trung gần nhau
+        Phương sai càng lớn, các giá trị càng trải đều, xa nhau
+    
+    Phương sai phù hợp với lý thuyết Toán học, nhưng số quá lớn
+    => Độ lệch chuẩn = căn bậc 2 của phương sai  dùng để báo cáo, trình bày với người khác
+
+    68% dữ liệu nằm trong khoảng 1 độ lệch chuẩn, 95% nằm tring 2 Độ
+    => chắc chắn một số dữ liệu nằm trong một khoảng nào đó
+___________________________________________________________________________________________
+Skewness and Kurtosis
+    Độ nghiêng và đuôi đường cong phân phối
+
+    phân phối chuẩn có dạng là đường cong đối xứng
+    nhưng trong thực tế, các bộ dữ liệu sẽ không đối xứng
+    => đường cong sẽ lệch sang một bên => gọi là độ nghiêng, độ lệch
+      => average != median != mode 
+    => có cách độ lệch : độ lệch trái (dương), độ lệch phải (âm),... 
+        => average > mode (dương) / average < mode (âm)
+
+    Kurtosis : 
+        . mesokurtic : phân phối chuẩn
+        . leptokurtic : phân bố tập trung ở trung tâm, đuôi mỏng
+        . platykurtic : chứa các giá trị cực đoan, hoặc lỗi thu thập, quá đồng đều
+    
+        # được sử dụng chung với các giá trị độ lệch chuẩn
+___________________________________________________________________________________________
+Correlation
+    Sự tương quan
+
+    => các thông số trên chỉ là đo lường cho một biến
+        trông thực tế, cần đo nhiều biến, và các biến đó thường có sự tương quan với nhau 
+    
+    sự tương quan là mối liên kết giữa hai biến số
+    thể hiện giá trị các biến trên đồ thị theo trục x,y => tìm ra đồ thị liên hệ 
+___________________________________________________________________________________________
+Probability
+    Xác suất
+
+    xác suất là khả năng một điều gì đó xảy ra, dùng để tính toán một biến cố 
+    xác suất là yếu tố cơ bản cho các công nghệ dựa trên dữ liệu như AI 
+
+    có rất nhiều yếu tố ảnh hưởng đến kết quả của một sự việc sẽ xảy ra
+        => các thuật toán có thể chỉ ra một kết quả dựa theo xác suất
+            nhưng kết quả của nó không chắc 100% đúng
+    =>  AI chỉ có thể lập mô hình xác suất theo dữ liệu có sẵn
+___________________________________________________________________________________________

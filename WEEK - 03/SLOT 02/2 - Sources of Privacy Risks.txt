@@ -1,0 +1,32 @@
+Private Data
+    Dữ liệu riêng tư
+
+    khả năng có thể lựa chọn một cách có chọn lọc việc có hay không chia sẻ dữ liệu
+    riêng tư về bản thân họ.
+    => Họ quyết định những gì nên được tiết lộ công khai, nếu có, 
+       và việc tiết lộ đó sẽ diễn ra như thế nào.
+    
+    tất cả chúng ta đều có thông tin về bản thân mà chúng ta muốn giữ kín.
+    => có thể lưu trữ thông tin đó ở nhiều nơi : máy tính cá nhân, clould,...
+    => có thể giữ kín một loại thông tin với đối tượng này nhưng ok khi chia sẻ nó với
+    đối tượng khác
+    => chúng ta có nhiều loại dữ liệu khác nhau, giữ kín theo nhìu cách khác nhau 
+
+    AI, máy móc xử lí dữ liệu nhanh hơn nhiều lần so với con người.
+    => tác động lớn hơn khi xảy ra một vấn đề gì đó với quyền riêng tư 
+    AI cũng có thể có những suy luận mới và rất chính xác khi nó được cung cấp một lượng 
+    dữ liệu khổng lồ bằng các quá trình thu thập.
+        => sử dụng tương quan chéo để suy ra những điều khác
+    
+    chúng ta cần  xác định các rủi ro đối với quyền riêng tư và giảm thiểu chúng một 
+    cách hiệu quả nhất có thể.
+    # không chỉ là nghĩa vụ pháp lí mà còn là nghĩa vụ về đạo đức
+__________________________________________________________________________________________
+First-Party vs. Third-Party Data
+    dữ liệu bên thứ nhất và bên thứ ba
+
+    First-party data is any data that you have collected directly from customers or 
+    any other audience that you work with.
+        => bất kỳ dữ liệu nào bạn đã thu thập trực tiếp từ khách hàng 
+        First-party data is usually the most valuable type of data that 
+        an organization collects

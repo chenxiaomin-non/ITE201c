@@ -1,0 +1,73 @@
+Machine Learning Outcomes
+    Kết quả học máy 
+
+    học máy là một trong các ngành chính của công nghệ AI
+    => đưa ra các ước tính về môi trường dựa theo các dữ liệu đầu vào
+    => không cần con người lập trình
+
+    cơ sở của học máy là các thuật toán 
+    sau đó con người cung cấp các dữ liệu => gọi là training
+        => tạo ra mô hình học máy : sự triển khai của một thuật toán dựa trên dữ liệu 
+    
+    có 2 loại : có giám sát và không giám sát
+        . giám sát : dữ liệu có dán nhãn là sự thật hoặc cơ bản, tiên đề
+            đánh giá các dự đoán qua các nhãn
+            cải thiện dự đoán thông qua các nhãn, đánh giá hiệu suất cũng trên các nhãn
+                # học tập có giám sát dựa trên mô hình hồi quy tuyến tính
+                    đo lường sự tương quan của các biến với kết quả 
+        . không giám sát : không có nhãn 
+            do  tập dữ liệu ko hoàn chỉnh, các yếu tố không thể sử dụng
+            => ko có cách thực sự hiệu quả để đánh giá hiệu suất
+            => ít được sử dụng hơn
+                cách sử dụng phổ biến nhất là phân cụm, nhóm các nhóm đối tượng
+                có cùng chung các tính chất lại với nhau
+                một cách sử dụng khác là giảm kích thước, loại bỏ các thuộc tính
+                không phù hợp hay ko cần thiết
+__________________________________________________________________________________________
+Cost Functions
+    hàm giá trị
+
+    Metrics like accuracy, precision, and recall are used to evaluate classification models
+     chúng không quá hữu ích trong việc đánh giá các mô hình hồi quy tuyến tính
+
+    mô hình hồi quy tuyến tín ko phân loại, không đưa ra dự đoán đúng sai
+    => nó trả về  một giá trị của một dự đoán nào đó dựa  trên dữ liệu trainning 
+
+    sử dụng sự khác biệt giữa giá trị thực tế và giá trị từ dự đoán để đánh giá mô hình
+    => Cost Functions: đo lường sai số giữa giá trị dự đoán và giá trị thực tế. 
+
+    các mô hình có sai số thấp hơn sẽ hiệu quả hơn trong việc ước lượng.
+    Một trong những mục tiêu chính của mô hình hồi quy tuyến tính là giảm thiểu sai số này. 
+    Trên thực tế, đây là cách mô hình học hỏi và cải thiện chính nó.
+
+    MSE : sai số bình phương trung bình
+        lấy bình phương chêch lệch giữa giá trị thực tế và dự đoán.
+        cộng lại, chia trung bình => MSE 
+        căn bậc 2 của MSE => RMSE
+__________________________________________________________________________________________
+Reliability
+    độ tin cậy
+
+    Reliability in this case refers to how well the model can perform at its assigned 
+    task, given data that it hasn't seen before.
+        => hiệu suất của mô hình khi làm việc vơi dữ liệu mới
+
+    => Cost Functions và MSE có thể dùng để đánh giá 
+    => có thể giảm kích thước dữ liệu, đơn giản hóa dữ liệu
+    => xác thực chéo : chia nhỏ dữ liệu trainning ra 2 3 tập nhỏ
+        . tập huấn luyện: huấn luyện mô hình .7 -> .8
+        . tập thử nghiệm: thử nghiệm xem mô hình hoạt động tốt như thế nào khi hoàn thành
+                        huấn luyện 0.1 -> 0.3
+        . tập xác nhận: điều chỉnh mô hình hoặc cải thiện hiệu suất trước khi thử nghiệm
+                        0.1 -> 0.2
+__________________________________________________________________________________________
+Goodhart's Law
+    Định luật Goodhart
+
+    " Khi một thước đo trở thành mục tiêu, nó sẽ không còn là thước đo tốt "
+
+    -> ám chỉ việc không nên phụ thuộc quá nhiều đến các chỉ số,
+       không nên dùng mọi cách để đạt đucợ các chỉ số tối ưu khi mà những dự đoán không
+       còn chính xác
+    => khi mô hình đạt đến dự đoán tối ưu, sẽ xuất hiện các trường hợp dương tính giả 
+        làm tốn kém chi phí 

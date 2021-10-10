@@ -1,0 +1,86 @@
+Risk Management Process
+    Quy trình quản lý rủi ro
+
+    Risk management is a process. It recurs indefinitely.
+    Nếu không có quản lý rủi ro, tổ chức sẽ hành động một cách thụ động khi đề cập đến 
+    vấn đề bảo vệ và thúc đẩy đạo đức.
+
+    it usually consists of the following tasks: identification, analysis, mitigation. 
+    these tasks are cyclic -> theo chu trình và lặp lại liên tục
+
+    Quản lí rủi ro tốt mang đến lợi ích và giá trị cho tổ chức. 
+    Đảm báo các rủi ro không xảy ra, hoặc xảy ra ít hơn, hoặc tổ chức sẽ chịu thiệt hại
+    ít hơn nếu nó xảy ra
+    => giúp chúng ta ko bị động
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Risk Identification
+    Nhận dạng rủi ro
+
+    the first steps in the risk management process, identification
+    need to actually know the risks your project faces before all other steps
+
+    để xác định rủi ro, cần gặp các bên liên quan, thảo luận, đề xuất, xem xét
+        => xác định tổng hợp các rủi ro ở nhiều mặt
+    ban dự án cũng nên cung cấp các nguồn lực và tài liệu quan trọng có thể 
+    giúp nhóm xác định rủi ro
+        project mission objectives, Statements of Work, project schedules and milestones, 
+        cost estimates, disaster recovery plans, business continuity plans, and many more. 
+        => xác định các yếu tố để thành công, cũng như thất bại
+    
+        # liên tục xác định các rủi ro trong quá trình thực hiện, không chỉ lúc bắt đầu
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Risk Analysis
+    Phân tích rủi ro
+
+    Risk analysis is about breaking down the risk into components to learn more about it
+    => chia nhỏ các rủi ro để phân tích nó / chia để trị
+    => mục đích : tìm ra nguyên nhân gốc rễ để đề phòng
+    => phân tích rủi ro cũng nên tìm ra các biểu hiện của rủi ro đó
+
+        => trị bằng nguyên nhân gốc rễ, phát hiện bằng các biểu hiện
+    
+    => đánh giá các rủi ro bằng khả năng xảy ra và tác động của nó
+        phân loại thành thấp, cao, trung bình,... -> chủ quan 
+        phân loại theo thang điểm -> khó thực hiện
+            => phân tích bán định lượng : kết hợp định tính và các mô hình thống kê
+        # để ưu tiên nguồn lực và tối đa hóa nguồn lực
+        # không thực hiện phân tích ĐẦY ĐỦ sẽ gây ra rủi ro lớn cho tổ chức
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Risk Mitigation
+    Giảm thiểu rủi ro
+
+    Mitigating risks means minimizing the likelihood or impact of that risk.
+    => tối thiểu khả năng gây hại của rủi ro
+        # nhiều cách để giảm thiểu rủi ro
+    ！ Loại bỏ hoàn toàn là không thể 
+
+    => một cách tiếp cận là : con người, quy trình và công nghệ
+        những nguồn này phát sinh các rủi ro, nhưng cũng có thể làm giảm thiểu nó 
+        . con người : tìm kiếm lỗi, rủi ro, báo cáo,...
+        . quy trình : quy trình được thiết kế  ra để làm việc đúng cách và lặp lại  
+        . công nghệ : các công cụ để làm việc một cách hiệu quả 
+        => kết hợp 3 yếu tố để đạy sự hiệu quả tốt nhất
+
+    => risk appetite : ngưỡng rủi ro : khả năng có thể chịu đựng được rủi ro 
+    => giảm thiểu rủi ro hoàn toàn là bất khả thi hoặc tốn quá nhiều nguồn lực
+        => giảm thiểu đền mức chịu đựng được
+
+    => Transferring risk : chuyển giao rủi ro cho bên thứ 3 giải quyết
+    => Accepting risk : chấp nhận rủi ro, kệ nó và ko giải quyết
+        # bất kể phản ứng nào, phải xác định và phân tích trước
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Types of Ethical Risk
+    các loại hình rủi ro về mặt đạo đức
+
+    These are five categories that ethical risk tends to fall under.
+        - First up are privacy risks
+        - risks to accountability : mọi ng phải chịu trách nhiệm về hành động của họ
+        - risk can affect transparency and explainability : cho phép mọi người biết cách
+                hoạt động của các công nghệ mới
+        - fairness and non-discrimination risks : bình đẳng trong tiếp cận, sử dụng,...
+                công nghệ
+        - The risk of safety and security of people and other assets
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
