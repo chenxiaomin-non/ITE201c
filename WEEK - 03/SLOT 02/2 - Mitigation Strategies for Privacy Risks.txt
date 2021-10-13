@@ -1,0 +1,67 @@
+Intent and Consent
+    Ý định và sự đồng ý 
+
+    The first strategy will talk about center on the concepts of intent and consent.
+    intent refers to how a user intends for their data to be collected and used
+        => đề cập đến cách người dùng dự định thu thập và sử dụng dữ liệu của họ
+    Consent is the idea of allowing an organization to use data in an intended way.
+        => là ý tưởng cho phép một tổ chức sử dụng dữ liệu theo cách đã định.
+    
+    Ý định thường là một điều khó giao tiếp. Rất khó để diễn đạt thành lời 
+    người dùng có thể muốn dữ liệu của họ được sử dụng như thế nào. 
+    => tồn tại các điểm mù trong vấn đề sử dụng như nào dữ liệu người dùng
+    => cần tiếp cận với ngôn ngữ dễ hiểu, hình ảnh minh họa, chú thích,...
+    => cần xác minh người dùng hiểu ý định mà ta truyền đạt
+
+    One method for managing consent over time is to renew consent agreements.
+        => gia hạn sự đồng ý, chấp thuận để ta tiếp tục sử dụng PII
+    => thường xuyên cập nhật các thỏa thuận và ý kiến người dùng
+    => cho họ lựa chọn từ chối thỏa thuận đồng ý này hoặc chọn một thỏa thuận thay thế.
+___________________________________________________________________________________________
+Minimize Private Data Sharing
+    Giảm thiểu chia sẻ dữ liệu riêng tư 
+
+    chia sẻ dữ liệu giữa các công ty với nhau là có lợi cho các bên
+
+    => khó theo dõi dữ liệu để bảo vệ quyền riêng tư khi nó chuyển từ tổ chức này sang 
+    tổ chức khác
+    => do sự khác nhau về tiêu chuẩn và phương pháp
+    => còn có thể do sự thiếu bảo vệ khi truyền qua các môi trường không an toàn
+
+    một số cách giảm thiểu rủi ro:
+        . giảm thiểu lượng dữ liệu chia sẻ 
+        . chọn lọc cách chia sẻ, phân quyền dữ liệu 
+        . Split neural networks : The models move, but the data stays where it is.
+        . to train in sequence across multiple devices
+    => khó để kiểm soát, kiểm duyệt hơn => tạo ra nhiều rủi ro khác
+___________________________________________________________________________________________
+Give the User Choices
+    Cho người dùng lựa chọn 
+
+    Người dùng nên được lựa chọn rõ ràng trong việc 
+    đồng ý thu thập, xử lý và chia sẻ dữ liệu của họ.
+    => không có sự hiểu lầm nào trái với mong muốn của người dùng
+
+    => các bên phải hiểu đày đủ về cách xử lí dữ liệu -> thông tin có ý nghĩa
+    => lựa chọn của người dùng -> giới hạn của phạm vi xử lí Data
+
+    một số cách giảm thiểu rủi ro :
+        . hệ thống chọn tham gia, chọn không tham gia.
+            => lý tưởng nhất là cho một bảng tùy chọn các loại nội dung
+            => người dùng có thể biết dữ liệu của mình sẽ được làm gì
+        . giúp người dùng đưa ra quyết định tham gia hay không 
+___________________________________________________________________________________________
+Minimize Private Data Collection
+    Giảm thiểu việc thu thập dữ liệu cá nhân 
+
+    cần giảm thiểu tối đa lượng dữ liệu thu thập
+    = giảm thiểu rủi ro về quyền riêng tư 
+    đặc biệt là về PII => rủi ro cao nhất, khả năng vi phạm quyền riêng tư nếu bị rò rỉ
+
+    => hết sức tránh thu thâp các loại PII, cần đánh giá có nên thu thập,
+    nên thu thập loại nào
+    => cũng nên tránh thu thập siêu dữ liệu - MetaData - dữ liệu về dữ liệu
+    ví dụ dữ liệu = bức ảnh, MetaData = thông số của bức ảnh, loại máy chụp, chụp ở đâu,
+    ai chụp nó,...
+    => có nguy cơ mắc rủi ro cao hơn 
+    => mắc dù không tránh khỏi nguy cơ vi phạm, nhưng ít ra có thể giảm thiểu rủi ro

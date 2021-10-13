@@ -1,0 +1,76 @@
+Reinforce Trust
+    Củng cố lòng tin
+
+    First, we're going to talk about the importance of reinforcing trust. 
+    => lợi ích của sự tin tưởng là có thể tin tưởng dữ liệu được chuyển và sử dụng 
+    đúng người và đúng cách
+
+    có 3 nguyên tắc:
+        . The first is identification 
+        . The second principle is authentication
+        . final principle is authorization (ủy quyền)
+    => sự tin tưởng dựa trên sự duy trì các nguyên tắc này
+
+    một số kỹ thuật về củng cố lòng tin:
+        . Bên thứ ba đáng tin cậy
+            => tạo điều kiện cho mối quan hệ tin cậy giữa hai thực thể. 
+            do cả 2 bên đều tin tưởng bên thứ 3 này
+            vd : tổ chức phát hành chứng chỉ,...
+        . xác thực đa yếu tố 
+            => Yếu tố xác thực là một loại phương pháp để xác thực hệ thống.
+            something you know / you have / or you are
+            vd : password, vân tay, khuôn mặt, đồng tử,...
+            => sử dụng nhiều yếu tố 
+        . đăng nhập một lần SSO
+            => cho phép người dùng đăng nhập vào một nguồn và sau đó họ có thể tự động 
+            đăng nhập vào một nguồn khác bằng cách sử dụng cùng một thông tin xác thực.
+            vd : đăng nhập Google => tự vào GG Drive, Gmail,...
+___________________________________________________________________________________________
+Anonymization and Pseudonymization
+    Ẩn danh và Giả danh 
+
+    Anonymization removes all ability to identify a subject.
+        => Ẩn danh loại bỏ tất cả khả năng xác định chủ thể.
+        => thường liên quan đến việc xóa các hoạt động hay thông tin nào đó
+    Pseudonymization disguises one's identity, using a false name or other identifiers. 
+        => Giả danh che giấu danh tính của một người, 
+        sử dụng tên giả hoặc các số nhận dạng khác
+    
+    Khi thu thập dữ liệu, có thể ẩn danh :
+        => không ràng buộc người dùng vói thông tin các nhân của họ 
+        => gắn người dùng với ID, session, cookie,..
+    differential privacy : khác biệt về quyền riêng tư 
+        => cho phép người dùng thêm nhiễu vào dữ liệu gửi đi 
+        => cho phép người dùng tiết lô những thứ cơ bản nhưng không phải danh tính
+        => sử dụng giả danh 
+    
+    Dữ liệu được giữ ẩn danh hoặc giả danh có ít khả năng nguy cơ bị xâm phạm
+    hoặc truy tìm được chủ nhân nếu bị lộ
+___________________________________________________________________________________________
+Homomorphic Encryption
+    Mã hóa đồng hình 
+
+    Encryption is a method of encoding information.
+        => mục đích :  để che giấu thông tin thực khỏi những người không có thẩm quyền
+        => là một trong những kĩ thuật mạnh nhất để đảm bảo tính bí mật của dữ liệu
+    
+    vấn đề : nếu muốn cho người khác sử dụng dữ liệu đã được mã hóa ?
+        mà lại không muốn họ có khả năng giải mã dữ liệu
+    => sử dụng mã hóa đồng hình
+
+    cơ bản : mã hóa = khóa + thuật toán mã hóa
+    => mô hình mã hóa công khai pub/pri key
+    A có thể gửi B dữ liệu được mã hóa, B xử lí dữ liệu mã hóa đó mà không cần
+    phải quan tâm bên trong có gì, sau đó có thể xuất ra một kết quả được mã hóa
+    ! tuy nhiên hiệu suất hoạt động không cao lắm
+___________________________________________________________________________________________
+Zero-Knowledge Protocols
+    Giao thức không cần kiến thức
+
+    Zero-knowledge protocols enable someone to prove that they have a piece of information,
+    without revealing the information itself.
+    => cho phép ai đó chứng minh rằng họ có một phần thông tin 
+    mà không cần tiết lộ thông tin đó
+
+    vd : chứng minh mình có đủ tài chính nhưng không muốn tiết lộ mức lương, tài khoản
+    ngân hàng,...

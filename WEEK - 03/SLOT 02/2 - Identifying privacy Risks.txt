@@ -1,0 +1,68 @@
+Identify Personally Identifiable Information (PII)
+    xác định thông tin định dạng cá nhân
+
+    The first technique we'll talk about for identifying privacy risks has to do 
+    with personally identifiable information or PII.
+    PII if you recall is data that can be used to identify an individual person.
+    we must detect the presence of PII in the first place.
+
+    xác định PII được lưu trữ trên cơ sở dữ liệu nào 
+    và cách các cơ sở dữ liệu đó có thể dễ bị tấn công.
+    đối với dữ liệu được luân chuyển, có thể xác định điểm đầu và cuối
+    
+    có thể thu thập công khai một số loại PII, nhưng cũng vô tình thu thập các loại khác.
+
+    => kẻ tấn công có thể thu thập, đảo ngược, khôi phục các PII để thu thập thông tin 
+    => cần khôi phục cài đặt gốc trước khi bán hoặc thải bỏ
+       sử dụng một số loại quy trình xóa an toàn
+___________________________________________________________________________________________
+Model Personas
+    Mô hình cá tính
+
+    một cá tính mô phỏng một kiểu người dùng
+    Loại người dùng đó có thể có các mục tiêu, sở thích, giá trị và nhu cầu nhất định
+    => mô hình hóa các loại người dùng với các chiến lược tiếp thị khác nhau
+    giúp các nhóm tập trung nỗ lực của họ vào 
+    những gì quan trọng nhất đối với người dùng mà không quá cụ thể.
+
+    First, we can understand what information they hold most important to them.
+        => những thông tin nào cần được giữ kín, chỉ thu thập một cách vừa đủ 
+    => nên lên kế hoạch, trước khi xây dựng cá mô hình về cá tính
+___________________________________________________________________________________________
+Track Customer Data
+    theo dõi dữ liệu khách hàng
+
+    One method for identifying risk and customer data is to track it.
+    => để xác định rủi ro của thông tin khách hàng thì theo dõi nó 
+    Có một số kỹ thuật nhằm mục đích xác định các rủi ro về quyền riêng tư.
+    
+    cần xem xét những gì sẽ thay đổi:
+        . mục tiêu kinh doanh
+        . hoạt động kinh doanh
+        . mong muốn của khách hàng
+        . thuộc tính cảu khách hàng
+        . thời gian => thay đổi sự rủi ro liên tục
+    Khi theo dõi dữ liệu, bạn cũng cần xem xét các sự chi phối việc thu thập dữ liệu đó.
+    => cần nhận thức cách xử lí có hướng dẫn rõ ràng, sự được phép hay không 
+    => cần đề cập rõ trong các điều khoản
+    => cần theo vết các truy cập định kì để phát hiện các truy cập lạ 
+    => xem xét để thực hiện các đánh giá 
+    Các đánh giá viên phải có khả năng chỉ ra các lỗ hổng tiềm ẩn và cách
+      dữ liệu khách hàng đang được thu thập, truy cập hoặc sử dụng.
+      đánh giá viên phải đáng tin cậy, hoàn toàn chịu trách nhiệm và 
+      công việc của họ được đánh giá ngang hàng
+___________________________________________________________________________________________
+Meet Compliance Requirements
+    đạt được các yêu cầu tuân thủ
+
+    phải tuân thủ các luật và quy định như GDPR hoặc HIPPA.
+    tuân thủ các tiêu chuẩn ngành như Khuôn khổ quyền riêng tư của NIST
+    các yêu cầu tuân thủ đều có liên quan đến quá trình xác định rủi ro.
+    => phải xác thực rằng tổ chức đang tuân thủ mọi luật và quy định hiện hành. 
+
+    việc xác nhận có thể dưới hình thức đánh giá nội bộ, đánh giá bên ngoài 
+    hoặc có thể là cả hai.
+    kiểm toán tuân thủ là một công cụ quan trọng 
+    Một số công cụ Quản trị dữ liệu có thể giúp tự động hóa quy trình 
+    đánh giá và quản lý sự tuân thủ. 
+    

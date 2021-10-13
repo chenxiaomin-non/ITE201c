@@ -39,3 +39,33 @@ First-Party vs. Third-Party Data
         => nhìu tổ chức tổng hợp và bán thông tin khách hàng cho bên thứ 3
         => mang tính chất thống kê nhiều hơn
     
+    dữ liệu bên thứ 3 mang nhiều rủi ro về mặt riêng tư hơn.
+    có thể không chính xác
+__________________________________________________________________________________________
+Secondary Use of Data
+    Sử dụng dữ liệu thứ cấp 
+
+    nhà cung cấp dữ liệu hoạch định kê hoạch sử dụng dữ liệu
+        . mục đích chính : dữ liệu được sử dụng đúng với mục đích đề ra 
+        . mục đích thứ cấp : bất kì việc sử dụng dữ liệu nào nằm ngoài mục đích chính
+    => một số mục địch thứ cấp mang lợi cho việc kinh doanh
+
+    các yêu cầu xử lí dữ liệu thay đổi theo thời gian => thay đổi mục đích
+    khi sử dụng dữ liệu cho mục đích chính => eo hẹp về các cách thức
+        nhưng hạn chế các rủi ro 
+    => việc sử dụng dữ liệu thứ cấp mở ra nhiều tiềm ẩn
+    => cần phải quản lí rủi ro cho việc sử dụng thứ cấp từ khi tính các mục đích ban đầu
+__________________________________________________________________________________________
+Combined Data Sources
+    Nguồn dữ liệu kết hợp 
+
+    dữ liệu thường được thu thập từ nhiều nguồn => được kết hợp lại thành một dạng duy nhất
+    việc kết hợp dữ liệu khá khó khăn trong việc kết hợp nhiều dữ liệu của một bản thể 
+    có nhiều cách :
+        . tương quan chéo : cố gắng tìm xem các bản ghi từ các tập dữ liệu khác nhau 
+          có đề cập đến cùng một người hay ko
+        . suy ra nhân khẩu học từ một hồ sơ
+    => có thể xảy ra lỗi dựa trên dự đoán tương quan 
+    => ảnh hưởng đến cách người dùng được đối xử
+    => đánh cắp danh tính, tương quan chéo làm tăng bề mặt tấn công 
+    
