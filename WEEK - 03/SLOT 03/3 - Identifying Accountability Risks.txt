@@ -1,0 +1,39 @@
+Recognize Black Box Algorithms
+    Nhận dạng thuật toán hộp đen 
+
+    Rất khó để diễn giải các quyết định của hộp đen, và do đó, việc đề cao 
+    trách nhiệm giải trình trở thành một thách thức
+    
+    mạng nơ-ron nhân tạo (ANN - artificial neural network)
+        . gồm các lớp khác nhau, có thể chia sẻ input output với nhau 
+        . data phải đi qua từ lớp này đến lớp khác để hệ thống đưa ra quyết định
+        => khó diễn giải khi hệ thống càng phức tạp
+        ^ một đầu vào đôi khi có thể được xử lí theo các cách khác nhau 
+        ^ hai hệ thống có thể cùng cho ra 1 kết quả
+    
+    => một số kĩ thuật phân tích có thể phân tích sâu hơn hệ thống này
+    ví dụ : decision tree,...
+    => cập nhật những phát hiện mới nhất vì nghiên cứu AI luôn cố gắng 
+    giải quyết những vấn đề này theo những cách tốt hơn.
+________________________________________________________________________________________
+Assess the Organization's Governance Structure
+    Đánh giá Cơ cấu quản trị của Tổ chức 
+
+    Quản trị xác định các quyền và trách nhiệm của tất cả các bên liên quan trong tổ chức
+    => đảm bảo hoạt động quản trị của tổ chức hoạt động như dự kiến.
+
+    mọi tổ chức nên có cấu trúc, một số thành phần của cấu trúc :
+        . cấu trúc
+        . thành phần con : thiết kế tổ chức, báo cáo,...
+        . trách nhiệm giám sát
+        . tài năng và văn hóa : quản lí hiệu suất, khuyến khích,...
+        . cơ sở hạ tầng : chính sách, thủ tục, báo cáo, truyền thông, công nghệ,...
+    
+    => cũng tạo ra nhiều phòng ban, lĩnh vực
+    => đặt ra mục tiêu kinh doanh cho các khu vực
+    => nên đóng vai trò đánh giá : tiết lộ bất kì sai sót hoặc điểm yếu nào trong mỗi 
+    cơ quan, phòng ban chịu trách nhiệm
+
+    các lỗ hổng về việc quy định ai chịu trách nhiệm có thể gây khó khăn cho người 
+    thực hiện các nhiệm vụ đạo đức của họ
+    ngoài ra, cần cẩn thận với các phòng ban hoạt động độc lập, rất có thể xảy ra xung đột

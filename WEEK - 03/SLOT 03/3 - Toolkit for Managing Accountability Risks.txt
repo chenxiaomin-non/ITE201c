@@ -1,0 +1,68 @@
+Algorithmic Impact Assessment (AIA)
+    Đánh giá tác động theo thuật toán 
+
+    là một công cụ được sử dụng để đánh giá việc sử dụng các công nghệ theo hướng
+    dữ liệu của một tổ chức, đặc biệt là AI.
+    tiết lộ các vấn đề tiềm ẩn phát sinh từ các hệ thống ra quyết định tự động
+
+    nhằm vào các cơ quan chính phủ và những người mà họ phục vụ. 
+    dựa trên các loại đánh giá tác động khác từ các ngành khác nhau,
+    => có nhiều phiên bản AIA của nhiều tổ chức khác nhau, có thể dùng quy trình
+    do AI Now vạch ra 
+        . Pre-acquisition review : đánh giá trước khi mua lại 
+            hệ thống nên được mọi người xem xét để tìm ra các lỗ hỏng
+        . Disclosure requirements : yêu cầu công bố
+            tiết lộ các kế hoạch giải quyết các vấn đề đạo đức
+        . Comments : bình luận
+            lấy ý kiến phản hồi từ công chúng
+        . AIA renewal : đổi mới AIA liên tục
+            liên tục đổi mới, sửa chữa, cập nhật AIA 
+    
+    AIA có nhiều dạng, thường là bảng câu hỏi
+    => tổ chức quyết định trả lời một số câu hỏi về dự án
+        vd : liệu thuật toán hoặc mô hình có phải là bí mật thương mại không? 
+            mức độ ảnh hưởng của hệ thống đối với sức khỏe và hạnh phúc của các cá nhân
+            ...
+    Tùy thuộc vào việc thực hiện, AIA cũng có thể cung cấp một điểm số hoặc mức độ.
+    => dựa vào câu trả lời và mức độ thực hiện(điểm) mà có thể đánh giá về
+    các trách nhiệm và rủi ro tiềm ẩn
+
+    Chính phủ Canada đã tạo ra một bảng AIA để dánh giá các hệ thống đưa ra quyết định 
+    tự động => duy trì trách nhiệm giải trình và tính minh bạch
+    => cung cấp các điểm số đánh giá các tác động tiềm tàng của AI 
+    
+    các câu hỏi có tác động khác nhau, với các trọng số điểm khác nhau 
+    do tác động của câu hỏi đó
+    không nhất thiết phải sử dụng công cụ AIA cụ thể này, 
+    nhưng bạn vẫn nên thực hiện AIA, 
+    đặc biệt nếu bạn thuộc cơ quan chính phủ có thể trả lời công chúng. 
+___________________________________________________________________________________________
+Data Visualization
+    Trực quan hóa dữ liệu 
+
+    vì các công cụ đánh giá cho kết quả ra bằng văn bản nên rất khó khăn để nhiều
+    người có thể đọc hiểu
+    => nên trực quan hóa dữ liệu bằng hình ảnh, biểu đồ,...
+    dễ nhìn thấy ý nghĩa muốn truyền đạt, nhiều thông tin chi tiết hơn
+
+    Hình ảnh hóa dữ liệu mời khán giả đưa ra kết luận của riêng họ. 
+    có thể dẫn đến những thông tin chi tiết mà người sáng tạo không hề hay biết.
+    => càng có nhiều khả năng phát hiện ra rủi ro hoặc thách thức 
+    đạo đức chưa từng biết trước đây
+    => cho phép người xem có thể zoom, sắp xếp, lọc, show context,...
+
+    =>  việc hình dung dữ liệu liên quan sẽ giúp thúc đẩy trách nhiệm giải trình. 
+___________________________________________________________________________________________
+Dashboard Reporting
+    Báo cáo Bảng điều khiển 
+
+    Bảng điều khiển là một hình ảnh trực quan cấp cao tóm tắt trạng thái 
+    của một dự án hoặc một phần của dự án
+    . sử dụng để xem nhanh tiến độ của một dự án
+    . có được tổng quan nhanh về hiệu suất của hệ thống và bất kỳ lỗi 
+    hoặc hỏng hóc nào đã xảy ra
+    => rất hữu ích do cho phép nhận thông tin thích hợp nhất
+    mà không phải chời đợi thông qua các chi tiết không cần thiết
+
+    dành cho những người không hiểu các chi tiết cảu dự án
+    -> họ chỉ cần xem những thông tin chính, tiến độ, KPI,...

@@ -1,0 +1,121 @@
+Document and Distribute Company Policies
+    Tài liệu và Phân phối Chính sách của Công ty 
+
+    Tài liệu là các nguồn có sẵn cho bạn tham khảo, dễ dàng để xác minh các chỉ thị
+    => tạo ra các chứng cứ rằng đã có những giấy tờ chính thức
+
+    => tài liệu quan trọng nhất là tài liệu về chính sách
+    Chính sách nêu rõ cách bạn dự định để các bên liên quan hành động trong tổ chức.
+        . chính sách đạo đức và ứng xử, 
+        . chính sách sử dụng được chấp nhận, 
+        . chính sách an ninh mạng, 
+        . chính sách nội trú và ngoại trú  
+        . chính sách bảo vệ dữ liệu.
+    => phải được viết bằng ngôn ngữ rõ ràng và ngắn gọn, dễ hiểu
+    => chính sách cũng nên cập nhật theo các phiên bản
+    
+    Tốt nhất, chúng nên được viết với sự tham khảo ý kiến ​​của các bên liên quan 
+    bị ảnh hưởng bởi chính sách
+    => cung cấp chính sách cho tất cả các bên liên quan 
+    => đảm bảo dữ liệu nhạy cảm chỉ cung cấp cho những người có quyền
+
+    cung cấp cho bạn khả năng phân công trách nhiệm hoặc trách nhiệm chính xác
+    và công bằng hơn nếu một sự cố hoặc một phần nhỏ xảy ra. 
+_________________________________________________________________________________________
+Document Design Processes
+    Quy trình thiết kế tài liệu 
+
+    Có rất nhiều lợi ích của việc ghi lại quá trình thiết kế.
+        . cho phép bạn theo dõi quá trình thiết kế của mình. 
+            có thể điều chỉnh thiết kế dựa trên những phát hiện của mình 
+            để tạo điều kiện cải tiến liên tục.
+            kiểm tra xem mọi thứ có tiếp tục phù hợp với thông số kỹ thuật như dự định hay không
+            có thể được truy ngược lại khi xảy ra vấn đề đạo đức nào đó
+    
+    Ghi lại tất cả các chức năng 
+    xác định nội dung của tài liệu : khía cạnh tập trung / loại hình tài liệu
+    Cung cấp bản tóm tắt cấp cao về thiết kế ở đầu tài liệu.
+    Thu hút phản hồi từ tất cả các bên liên quan có liên quan
+    cung cấp cơ sở lý luận cho việc lựa chọn thiết kế.
+    Đảm bảo tài liệu thiết kế được nhiều người xem xét
+    phổ biến các báo cáo thiết kế cho từng đối tượng có liên quan. 
+_________________________________________________________________________________________
+Document Auditing Processes
+    Quy trình kiểm tra tài liệu 
+
+    Kiểm định là đánh giá một số bộ phận của doanh nghiệp, cho dù đó là con người,
+    quy trình hay công nghệ. 
+    => kiểm tra xem những điều này có tuân thủ các tiêu chuẩn, chính sách, 
+    khuôn khổ, luật và quy định đã được thiết lập hay không.
+
+    các tài liệu sẽ chứng minh ai đánh giá, đối tượng và cách đánh giá
+    các tài liệu cung cấp nhiều thông tin cho việc kiểm định:
+        . dễ dàng trao đổi vấn đề 
+        . xem xét kỹ lưỡng hơn 
+        . có hướng dẫn rõ ràng 
+    
+    . các mô hình tham chiếu tài liệu
+        cách hệ thống được thiết kế, hoạt động, vận hành
+    . hệ thống ký số và lập biên bản đồng thời
+        cung cấp tính xác thực đầu vào
+
+    => nên ghi lại quá trình kiểm định : về người đánh giá, thông tin cần kiểm định,
+    các tiêu chuẩn kiểm định,...
+    => có thể triển khai cơ chế nhật kí, nhận xét và đánh giá các tài liệu,...
+    các nguồn lực trợ giúp mà người đánh giá yêu cầu để có thể đánh giá,...
+_________________________________________________________________________________________
+Responsibility Assignment Matrix (RAM/RACI)
+    Ma trận phân công trách nhiệm (RAM / RACI) 
+
+    đảm bảo rằng các bên liên quan có liên quan biết trách nhiệm của họ là gì. 
+    Mọi nhiệm vụ trong dự án cần được giao cho một người hoặc cho một nhóm người
+    => sử dụng ma trận phân công trách nhiệm
+
+    là một biểu đồ hoặc bảng ánh xạ mọi nhiệm vụ hoặc cột mốc quan trọng 
+    trong dự án với các vai trò để chúng thực hiện.
+        nhiệm vụ -> vai trò 
+        . vai trò : quản lí dự án, kỹ sư dữ liệu, kỹ sư ML,...
+        . trách nhiệm : có 4 trách nhiệm chính 
+            . responsible : trách nhiệm thực hiện, thực hiện nhiệm vụ
+            . Accountable: trách nhiệm giải trình, phê duyệt nhiệm vụ
+            . Consulted : vai trò tư vấn, cung cấp các thông tin đầu vào có giá trị
+            . Informed : được thông báo về tiến độ của nhiệm vụ
+            => RACI, một biến thể khác là RASI
+            . Support : nhân sự có vai trò trợ giúp cho người chịu trách nhiệm
+        
+    chia thành một bảng, các hàng là các nhiệm vụ, các cột là người chịu trách nhiệm
+    nơi giao nhau sẽ là trách nhiệm của người đó trong nhiệm vụ
+_________________________________________________________________________________________
+Pilot Testing
+    Thử nghiệm thí điểm 
+
+    là một thử nghiệm được tiến hành trước khi bắt đầu phát triển 
+    trên một dự án quy mô đầy đủ.
+    đánh giá tính khả thi của dự án, cũng như đánh giá các yếu tố như chi phí và rủi ro. 
+    => mang lại một cuộc tập dợt về các loại rủi ro có thể xảy ra 
+    có thể dễ dàng tiết lộ những lỗ hổng trong trách nhiệm giải trình
+
+    . nên ghi lại từng bước của quy trình. 
+    . Đảm bảo những người tham gia được đào tạo đầy đủ và nhận thức được bất kỳ 
+    vai trò hoặc nhiệm vụ kiểm tra cụ thể nào. 
+    . tất cả những người tham gia đều được trang bị các công cụ cần thiết
+    . tất cả các hệ thống bị ảnh hưởng đều được chuẩn bị cho thử nghiệm.
+    . cũng cần được thông báo trước về độ dài và phạm vi của bài kiểm tra.
+    . Thiết lập các tiêu chí cho một cuộc đánh giá
+    .  phân tích phản hồi từ mọi người về trải nghiệm của họ
+_________________________________________________________________________________________
+Collaboration with Data Sharing Partners
+    Cộng tác với các Đối tác chia sẻ dữ liệu 
+
+    chia sẻ dữ liệu riêng tư của người dùng tạo ra một rủi ro rất lớn với TNGT
+    vì dữ liệu thường xuyên hay đổi nên rất khó khăn để xác định trách nhiệm giải trình
+    của một người
+
+    => cần hợp tác liên tục giữa các tổ chức
+    => cần liên lạc, trao đổi với nhau ở mọi bước đi 
+    => thường xuyên kiểm tra để đảm bảo đáp ứng các yêu cầu 
+    
+    Trách nhiệm giải trình lẫn nhau cũng có nghĩa là mỗi tổ chức trong chương trình
+    chia sẻ dữ liệu buộc các tổ chức khác phải chịu trách nhiệm về những sai lầm. 
+     Mỗi tổ chức đều bình đẳng với nhau. 
+     Mỗi tổ chức phải trả lời cho các hành động của mình.

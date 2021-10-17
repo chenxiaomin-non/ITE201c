@@ -1,0 +1,67 @@
+Use of Third-Party Components
+    Sử dụng các thành phần của bên thứ 3
+
+    các doanh nghiệp đa phần đều dùng các thành phần của bên thứ 3
+    => một số biện pháp kiểm soát sẽ bị mất
+    
+    khi xảy ra sự cố hoặc muốn xác đinh rủi ro:
+        . bên thứ 3 không chia sẻ mã nguồn:
+            không thể đánh giá các vấn đề tiềm ẩn
+            nếu không có các giải pháp của bên thứ 3 thì cũng chịu trách nhiệm
+            => nhà đạo đức cần thẩm định tất cả các yếu tố
+        . bên thứ 3 là mã nguồn mở : OpenCV, TensorFlow,...
+            dễ xác minh các rủi ro hơn
+            nhưng được quản lí một cách rất lỏng lẻo
+            phần lớn không có cá nhân hay cơ quan nào chịu trách nhiệm
+_________________________________________________________________________________________
+Automation Bias
+    Thiên hướng tự động hóa 
+
+    là xu hướng mọi người dựa vào các quyết định được thực hiện bởi các hệ thống tự động, 
+    thay vì những quyết định do con người thực hiện một cách thủ công
+    ngay cả khi hệ thống đưa ra quyết định sai, mọi người vẫn tin theo
+
+    => là một tâm lý chung do:
+        . cho rằng máy móc nhất quán và đúng đắn
+        . liên kết tự động hóa với trí thông minh 
+    
+    một số biểu hiện
+        . tính tự mãn
+            người giám sát hệ thống hoặc sử dụng hoàn toàn tin tưởng chúng
+            ít có khả năng kiểm tra hoặc tìm kiếm các quyết định trái ngược
+            . nghịch lí : hệ thống càng tốt, mọi người càng tự mãn
+            hệ thống càng ngu, càng vô dụng
+        . sự tin tưởng mù quáng
+
+    khi dựa vào một hệ thống đưa ra quyết định
+    => cấp cho nó một số quyền kiểm soát một số asset nào đó
+    ==> khi nó ra quyết định sai, ai phải chịu trách nhiệm cho phần nào?
+    
+    con người càng ít tham gia vào quá trình ra quyết định thì 
+    càng khó bắt ai đó phải chịu trách nhiệm về quyết định đó. 
+    => nhưng vẫn dựa vào việc có con người quyết định trong việc tự động hóa
+    vd : trình tự động điền, con người tin tưởng và nó có thể sai 
+        tự động bay, phi công tin tưởng là nó có thể bay được, và nó đã dẫn đến tai nạn
+_________________________________________________________________________________________
+Extrajudicial Judgment
+    Phán quyết ngoài tư pháp 
+
+    một quyết định có thể gây ra hậu quả nghiêm trọng đối với quyền tự do cá nhân,
+    nhưng không bị cơ quan pháp luật xử phạt.
+    => một hệ thông ngăn chặn một người xuất hiện ở các nơi mà mọi người ko thích người
+    đó xuất hiện, không phạm pháp nhưng ảnh hưởng đến quyền lợi của người đó 
+    => rủi ro sẽ xuất hiện khi hệ thống có lỗi, có thiên vị,...
+_________________________________________________________________________________________
+Lack of Guiding Principles
+    Thiếu nguyên tắc hướng dẫn 
+
+    Việc thiếu hành động cũng có thể là một thủ phạm.
+    Nếu không có các nguyên tắc hướng dẫn, tổ chức không có nền tảng rõ ràng để 
+    phát triển và sử dụng các công nghệ theo hướng dữ liệu của mình một cách có đạo đức.
+    => Việc xác định ai phải chịu trách nhiệm về những thất bại đạo đức 
+    cũng trở nên khó khăn hơn
+
+    Các nguyên tắc đưa ra một tuyên bố mà tất cả mọi người đều có thể dễ dàng hiểu, 
+    diễn giải và làm theo
+
+
