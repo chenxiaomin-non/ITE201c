@@ -1,0 +1,39 @@
+Explain How Systems Work
+    Giải thích cách hệ thống làm việc
+
+    => cách đơn giản nhất là giải thích cách làm việc với mọi người
+    nhưng phần lớn sẽ ko có nhiều kiến thức
+    nhưng họ vẫn nên được biết các quy trình va các quyêt định cơ bản
+    => khiến họ tin tưởng hơn về hệ thống
+
+    . Cung cấp các khái quát : cách hệ thống tự hoạt động, quy trình chung của học máy,...
+    data -> input -> calculate -> model processing -> decision
+    => sử dụng các sơ đồ để giải thích quá trình, kết quả,...
+    . Cách các dữ liệu được thu thập (đặc biệt nhạy cảm nếu là dữ liệu cá nhân)
+    . Cách các dữ liệu đucợ sử dụng
+    . Giải thích các phép toán nhập liệu
+    => xuất bản các giải thích có các chi tiết kĩ thuật như bổ sung
+    vì các người khác trong ngành, kiểm định viên, học giả,... muốn tham khảo
+    => xuất bản về AI, thuật toán, phương trình, điểm mạnh yếu,...
+___________________________________________________________________________________________
+Help Users Seeking Explanations
+    Giúp người dùng tìm kiếm lời giải thích
+
+    giải thích là không đủ, do người dùng sẽ đưa ra những lo ngại mà chúng ta ko nghĩ đến
+    => nên thu hút phản hồi  và cải tiến trên những phản hồi đó
+    => giảm bớt lo lắng của người dùng và cả nhà phát triển
+
+    một số thứ người dùng muốn được giải thích: quyền riêng tư, cách sử dụng dữ liệu,
+    mối đe dọa từ dữ liệu họ đã cung cấp,...
+    => thiết lập một kênh giải đáp : web, mail, blog, phone,...
+    => cung cấp các biểu mẫu : textbox để viết tất cả suy nghĩ của họ 
+    => các hội thảo trực tiếp/ trực tuyến,...
+    => mang lại cho người dùng sự an tâm về cách dữ liệu của họ đang được sử dụng
+
+    ngay cả khi không trả lời được câu hỏi nào đó, nhưng vẫn mang lại sự yên tâm cho 
+    khách hàng vì họ biết đang quan tâm đến các quyền của họ
+___________________________________________________________________________________________
+Keep Humans in the Loop
+    Giữ cho con người vẫn có sự giám sát có ý nghĩa với hệ thống
+
+    

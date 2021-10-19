@@ -1,0 +1,40 @@
+Explainable AI
+    AI có thể giải thích được
+
+    AI có thể giải thích ngược lại với hộp đen
+    Con người có thể hiểu được các quyết định dẫn đến kết quả của AI.
+    có thể tiết lộ rủi ro vì nó có thể cung cấp câu trả lời cho các 
+    câu hỏi mà hệ thống hộp đen nêu ra.
+    AI có thể giải thích được sẽ trả lời một số câu hỏi như : tại sao lại đưa ra quyết định
+    đó, tại sao thành công hay thất bại,...
+    => càng nhiều câu hỏi có thể trả lời, càng trở nên minh bạch
+__________________________________________________________________________________________
+Identify Algorithmic Decisions
+    Xác định các quyết định thuật toán 
+
+    muốn phát hiện sự hiện diện của những rủi ro này ngay từ đầu
+    xác định khi nào các thuật toán học máy đang đưa ra các quyết định nhất định 
+    so với khi nào thì không. (!= con người / hệ thống ko tự học)
+
+    sai sót của các hệ thống tự động hóa thường được khuếch đại lên ở quy mô lớn
+    phải xác định các quyết định theo thuật toán nếu chúng ta muốn bắt đầu quản lý rủi ro
+        . làm rõ và nêu rõ các mục tiêu của một hệ thống AI ngay từ giai đoạn thiết kế.
+        . đảm bảo có sự giám sát trong quá trình triển khai hệ thống
+        . tiến hành đánh giá định kỳ khả năng ra quyết định của hệ thống
+__________________________________________________________________________________________
+Deconstruct Specific Decisions
+    Giải quyết các Quyết định Cụ thể 
+
+    giải thích, tìm hiểu, làm rõ cấu trúc quyết định được đưa ra 
+        . bắt đầu với kết quả và truy ngược lại từng quyết định
+        . xét theo thứ tự các quyết định mà máy đưa ra 
+    => tiết lộ những điểm có thể giải thích 
+    tương tự, có thể tiết lộ những điểm mà một số quyết định nhất định không thể giải thích
+
+    sử dụng cây quyết định (Decisions tree) để giải thích các quyết định
+    => là cấu trúc if-else để đưa ra kết luận với nhiệm vụ phân loại
+    đi từ trên ngọn xuống, các quyết định đưa ra ngày càng có nhiều điều kiện chặt chẽ
+
+    những lá sẽ là những điều kiện cuối cùng và đưa ra câu trả lời cuối cùng 
+    (Xem hình) 
+    

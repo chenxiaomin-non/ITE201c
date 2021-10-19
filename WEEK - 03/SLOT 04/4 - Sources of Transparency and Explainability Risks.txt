@@ -1,0 +1,77 @@
+Black Box Systems
+    Các hệ thống hộp đen 
+
+    Người quan sát không dễ dàng nhìn thấy hệ thống hộp đen và các quyết định của nó.
+    => chúng không minh bạch và cũng không dễ giải thích
+    khó khăn để xác định cấu trúc ra quyết định của các mô hình đó
+    => các mô hình hộp đen rất khó có thể giải thích ngay cả với người trong ngành AI
+    => đặc biệt là các lớp ẩn của mạng noron AI 
+
+    => nếu ko giải thích được có thể làm suy yếu niềm tin ngay cả khi nó đưa ra quyết định
+    đúng và chính xác
+    ! Không phải tất cả AI đều là blackbox, cũng không cân phải hoàn toàn tránh sử dụng 
+___________________________________________________________________________________________
+Self-Learning Models
+    Các mô hình tự học
+
+    => là mô hình được đào tạo lại thường xuyên trên các tập dữ liệu mới
+    => tự động hóa việc đào tạo AI, mạng lại nhiều lợi ích
+    ! nhưng cũng không ít hậu quả
+        . càng đào tạo một cách ít có giám sát thì càng ko thể nhìn vào những quyết định
+    của mô hình AI đó 
+        . hiệu suất của một mô hình có thể giảm dần sau một số bản cập nhật. 
+
+    nếu ngay từ lúc bắt đầu hệ thống của bạn là blackbox thì nó sẽ càng khó giải thích hơn
+    nếu nó ko phải blackbox thì chúng ta cũng không biết dữ liệu đầu vào có ảnh hưởng như
+    thế nào đến mô hình đó (do thay đổi liên tục)
+    => dẫn đến sụt giảm hiệu suất hoặc khó khăn khi đánh giá mức độ tin cậy
+___________________________________________________________________________________________
+Third-Party Integration
+    Tích hợp bên thứ ba 
+
+    hiệu quả hơn về chi phí khi dựa vào bên thứ ba cho một số dịch vụ
+    => bên thứ ba không cung cấp đủ khả năng hiển thị về giải pháp mà 
+    họ đang cung cấp cho bạn.
+    integration process itself leads to a lack of transparency.
+        quá trình tích hợp công nghệ cũng dẫn đến một số rủi ro
+        do phải sửa đổi một số phần để tương thích với bên thứ 3
+    ngay cả khi bên thứ 3 cung cấp các giải thích của họ, sản phẩm tạo ra đôi khi
+    cũng không thể có tính minh bạch và giải thích đc 
+        => đặc biệt khi hệ thống của bên thứ 3 phức tạp đến mức cả nhớm ko thể hiểu đc 
+    Bạn có thể không thể liên tục cải tiến dự án, 
+    nếu chỉ một thành phần không thể giải thích được.
+___________________________________________________________________________________________
+Intellectual Property Rights
+    Quyền sở hữu trí tuệ 
+
+    Hầu hết các tổ chức có ít nhất một số tài sản trí tuệ mà họ muốn bảo mật
+       bao gồm bản quyền, nhãn hiệu, bí mật kinh doanh, v.v. 
+    => nhiều tài sản sở hứu trí tuệ là nguồn đóng, không có sẵn cho bất kỳ 
+    ai xem, sao chép hoặc phân phối
+    => cách nào để xác minh rằng sản phẩm đang tuân thủ các quy định đạo đức khi 
+    không thể thây được sản phẩm, mô hình của bạn?
+
+    => người kiểm định ko thể xem được các thành phần cấu tạo nên
+    đôi khi có những bí mật thương mại mà ko muốn tiết lộ
+___________________________________________________________________________________________
+Shadow Banning
+    Các lệnh cấm ẩn
+
+    là cấm hoặc chặn ai đó trên nền tảng trực tuyến mà người dùng đó không biết
+    những nhận xét và hoạt động của người dùng bị cấm sẽ không hiển thị với 
+    những người dùng khác trên nền tảng
+
+    ko chặn vì : việc chặn hoàn toàn người dùng đôi khi khuyến khích họ tạo 
+    tài khoản mới và thực hiện nhiều hành vi không mong muốn hơn nữa.
+
+    => chặn việc người khác tương tác với người bị cấm
+    rủi ro minh bạch là người bị cấm ko biết mình bị cấm
+    nếu hệ thống tự động cấm là một AI, thì ngay cả chủ trang web cũng ko biết ai bị cấm
+    ko tránh khỏi các trương hợp dương tính giả 
+    => làm giảm niềm tin của người dùng vào một trang web
+    => cơ hội bình đẳng để tranh luận
+    => không cung cấp cho người đó lý do cho lệnh cấm 
+    => không có nhiều quyền lực để chống lại lệnh cấm.
+
+
+
