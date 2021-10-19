@@ -1,0 +1,53 @@
+SHAP and Alibi
+
+    Python là ngôn ngữ phổ biến nhất cho khoa học dữ liệu và máy học. 
+    các công cụ đều là các dự án Python mã nguồn mở
+
+    SHAP là viết tắt của SHapley Additive exPlanation
+    dựa trên lý thuyết trò chơi và sử dụng để giúp giải thích các mô hình học máy. 
+    tạo ra giá trị Shapley => mức độ quan trọng của sự đóng góp của mỗi cá nhân
+        vd : A,B,C quyết định xây chung sân bay, nhưng có các máy ba kích cỡ khác nhau
+        cần các cơ sở vật chất khác nhau => tìm đóng góp của A,B,C cho công bằng
+        => ai có máy bay cỡ lớn thì trả nhiều tiền hơn
+        => ai có nhiều hơn thì trả nhiều hơn 
+        => ai có tần suất bay-đáp nhiều hơn thì trả nhiều hơn 
+    => giải thích các tham số khác nhau đóng gớp vô quá trình tạo ra kết quả như thế nào
+    => giảm thiểu hàm chi phí => hiệu suất cao
+    . dự đoán nhãn => các tham số của đối tượng đóng góp như nào vào việc tạo thành nhãn
+
+____________________________________
+    Alibi là một công cụ đa năng để cung cấp các giải thích về các mô hình học máy
+    . nó cố gắng trả lời câu hỏi, với một phiên bản dữ liệu duy nhất, tại sao mô hình
+    sẽ đưa ra dự đoán này thay vì dự đoán khác
+    . giải thích cách thức và lý do tại sao các điểm dữ liệu riêng lẻ lại 
+    đóng góp vào một dự đoán
+    . được thiết kế để hoạt động với các mô hình hộp đen
+    . Anchor explanations : nhóm nhỏ các nhóm dữ liệu sẽ đưa ra dự đoán giống nhau 
+        => giúp giải thích các yếu tố nào sẽ dẫn đến quyết định
+    ! công cụ mạnh để giải thích các hệ thống blackbox
+___________________________________________________________________________________________
+ELI5, LIME, and What-If
+
+    ELI5 or Explain Like I'm 5,
+    . dựa trên đánh giá các biểu thức
+    . là một thư viện đơn giản hóa giải thích các quyết định thực hiện bởi các bộ phân loại
+    . cho cả khả năng diễn giải toàn cục và cục bộ
+    . rất tốt cho việc phân tích nhanh chóng và sai lầm của các mô hình học máy
+    . tương đối dễ dàng cho những người dùng không am hiểu kỹ thuật.
+
+____________________________________
+    LIME là viết tắt của Local Interpretable Model Explanation
+    . cung cấp khả năng diễn giải địa phương
+    . có thể giải thích các bộ phân loại hộp đen hoạt động 
+        dữ liệu dạng bảng hoặc dựa trên hình ảnh
+    . nó sửa đổi đầu vào và đánh giá tác động của điều này đối với đầu ra dự đoán
+    . LIME có thể nhanh hơn SHAP nhiều, nhưng kém chính xác hơn
+____________________________________
+    What-If
+    . được Google phát triển
+    . để diễn giải các mô hình phân loại và hồi quy hộp đen
+    . có nhiều tính năng để giải thích các mô hình, đặc biệt là thông qua hình ảnh hóa
+    . so sánh hai mô hình trên cùng một tập dữ liệu
+    . trực quan hóa
+    . được thiết kế để tích hợp với nền tảng Cloud AI của Google
+    . 

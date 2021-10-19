@@ -36,4 +36,49 @@ ________________________________________________________________________________
 Keep Humans in the Loop
     Giữ cho con người vẫn có sự giám sát có ý nghĩa với hệ thống
 
-    
+    mô hình tự học ko giám sát có các rủi ro khá lớn
+    => nên giữ vai trò nhất định cảu con người trong việc giám sát
+    => dẫn đến một hệ thống minh bạch và dễ giải thích hơn
+    => đảm bảo hệ thống chính xác hơn 
+    con người giám sát cũng ngăn chặn các thiên vị hoặc vi phạm quyền riêng tư 
+    . Yêu cầu con người gắn nhãn các dữ liệu : đảm bảo dữ liệu chất lượng cao
+    . Điều chỉnh các mô hình đã được đào tạo
+    . Kiểm tra và xác nhận mô hình : xem xét các thông số, độ chính xác, hàm chi phí,...
+    => tốn chi phí nhưng đảm bảo hệ thống minh bạch và dễ giải thích hơn 
+___________________________________________________________________________________________
+Ensure Proper Data Disclosure
+    Đảm bảo Tiết lộ Dữ liệu Thích hợp
+
+    tiết lộ dữ liệu thường liên quan đến chia sẻ dữ liệu
+    Hệ thống AI hoạt động với khối lượng dữ liệu khổng lồ được giữ kín. 
+    Tại một số thời điểm, dữ liệu phải được chuyển từ bên này sang bên khác. 
+    => Đó là nơi xuất hiện sự tiết lộ.
+        vd : tổ chức cung cấp dữ liệu cho tổ chức khác, nước ngoài
+        cá nhân cung cấp cho tổ chức,...
+    => tiết lộ dữ liệu ko đúng cách ảnh hưởng đến uy tín của tổ chức, trách nhiệm pháp lý
+
+    quy trình và hành động tiết lộ dữ liệu phải minh bạch đối với các bên 
+    liên quan đến dữ liệu (cả bên xử lí và nắm giữ dữ liệu)
+    . các bên cũng phải hiểu dữ liệu được xử lí như thế nào 
+    . tuyên bố từ chối trách nhiệm : cung cấp dữ liệu cho bên khác và từ chối chịu trách
+    nhiệm nếu bên đó xảy ra vấn đề 
+    . trả lời các câu hỏi về bên thứ ba rõ ràng, tránh sa vào pháp lý
+    . cả hai bên cần có sự đồng ý về sự tiết lộ thông tin 
+    . nên giải thích cách xử lí dữ dữ liệu ngay từ lúc thu thập dữ liệu
+        => tạo ra ý định rõ ràng khi thu thập dữ liệu
+___________________________________________________________________________________________
+Be Upfront About Training Data Inadequacies
+    Hãy trả lời trước về những bất cập trong dữ liệu đào tạo 
+
+    dù nỗ lực cải thiện tập dữ liệu đầu vào, nó cũng không bao giờ hoàn hảo
+    => cần nhận thức những thiếu sót trong tập dữ liệu và hiệu suất của hệ thống 
+    . ảnh hưởng tới tính thiên vị, hiệu suất, độ chính xác,...
+
+    các bộ dữ liệu nhỏ khó tạo ra các mô hình hữu ích, và có thể bị sai lệch quá mức
+    thiếu một số giá trị trong tập khiến ta phải ước tính => ko chính xác
+    sự thiên vị trong mẫu => mô hình thiên vị 
+    thiếu tự tin trong dữ liệu, đặc biệt nghi ngờ khi dữ liệu là bên thứ 3 thu thập
+    => các nhà đầu từ, đối tác,... muốn biết các sai sót này để cố chiến lược thích hợp
+
+    thừa nhận các sai sót, nhưng vẫn có thể đứng vững nếu hệ thống hữu dụng
+    => ngăn mọi người nghĩ sản phẩm là lừa đảo
