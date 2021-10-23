@@ -1,0 +1,49 @@
+Bias and Safety Bounties
+
+    khuyến khích những người bên ngoài báo cáo lỗi trong phần mềm.
+    => đưa ra một số khoản bồi thường, chẳng hạn như tiền hoặc chứng nhận, vinh danh
+    . cho phép nhà phát triển phát hiện và sửa lỗi nhanh hơn trước khi 
+    chúng trở nên phổ biến và dễ dàng bị khai thác
+    . Nhà phát triển sẽ được trang bị tốt hơn để giảm thiểu sự thiên vị sớm, 
+    => điều này sẽ làm giảm tác động của sự thiên vị 
+    . cần lập kế hoạch cho các chương trình về tiền thưởng
+        . xác định rõ những gì chô là thiên vị 
+        . cần truyền đạt mục đích của việc này cho mọi người
+        . thu hút những 'thợ săn' tiền thưởng
+        . tạo ra kênh theo dõi hoặc quản lí tiền thưởng
+    => tương tự, chúng ta có tiền thưởng an toàn 
+        báo cáo vấn đề an toàn tiềm ẩn trong hệ thống AI 
+    . dựa theo khả năng để xử lí và vận hành hệ thống tiền tưởng 
+__________________________________________________________________________________________
+AI Fairness 360
+
+    AI Fairness 360 là một thư viện Python mã nguồn mở, được phát triển bởi IBM
+    => giúp các nhà phát triển xác định các vấn đề thiên vị và phân biệt đối xử, 
+    trong các chương trình AI của họ
+    . cũng giúp lựa chọn các kỹ thuật giảm thiểu thích hợp để giảm thiểu rủi ro
+    . gồm 17 chỉ số, đánh giá tính công bằng của bộ dữ liệu và mô hình học máy
+    . gồm 10 thuật toán được sử dụng để giảm thiểu sai lệch, trong tập dữ liệu và mô hình
+    => chọn các chỉ số công bằng cà thuật toán muốn áp dụng
+    => bộ công cụ đưa ra điểm số và giải thích cho từng chỉ số có liên quan
+
+    . các thuật toán có 3 loại;
+        . tiền xử lí : sửa đổi tập dữ liệu huấn luyện, trước khi tạo mô hình
+        . trong xử lí : sửa đổi các thuật toán học máy, trong quá trình đào tạo mô hình
+        . hậu xử lí : sửa đổi các dự đoán xuất ra từ mô hình
+    => so sánh kết quả đã xử lí với ban đầu, xem có hạn chế được thiên vị ko 
+    . phù hợp nhất trong các tình huống, nơi các thuộc tính được xác định rõ ràng
+__________________________________________________________________________________________
+Radioactive Data Tracing
+
+    đánh dấu một số điểm dữ liệu để dễ dàng thấy được tác động của các phần dữ liệu đó
+    => chủ yếu được áp dụng cho các nhiệm vụ thị giác máy tính như phân loại hình ảnh
+    . Trong truy tìm dữ liệu phóng xạ, mỗi hình ảnh được sửa đổi một chút
+    . Nhãn không được sửa đổi,
+    . hững hình ảnh phóng xạ được đưa vào CNN để đào tạo.
+    => CNN bị 'nhiễm phóng xạ'
+    các phương pháp tương tự trước đây về cơ bản đã đầu độc mô hình 
+    khi cố gắng theo dõi dữ liệu đầu vào => hiệu suất của mô hình
+    => phát hiện các trường hợp dữ liệu đầu vào được sử dụng không đúng cách
+            ex : có thể một tập hợp hình ảnh không liên quan đến vấn đề được đề xuất 
+            và chỉ thêm nhiễu => ảnh hưởng đến công bằng
+    hiện đang trong giai đoạn phát triển ban đầu.
