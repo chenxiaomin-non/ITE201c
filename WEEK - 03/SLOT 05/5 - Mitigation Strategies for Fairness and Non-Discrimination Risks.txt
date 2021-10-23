@@ -1,0 +1,69 @@
+Inclusive Design and Foreseeability
+    Thiết kế toàn diện và tính khả thi 
+
+    Thiết kế toàn diện là một quá trình thiết kế trong đó nhiều yếu tố đa dạng của sự 
+    tồn tại của con người được coi là một phần của thiết kế sản phẩm hoặc dịch vụ
+    => xem xét các nhu cầu và sở thích trong các nhóm dễ bị bỏ qua
+    => sản phẩm hoặc dịch vụ có thể áp dụng cho tất cả người dùng, bất kể nhu cầu 
+    hoặc sở thích của họ độc đáo hay khác thường như thế nào.
+    => cải thiện sự công bằng và giảm thiểu thiên vị
+    một quy trình cơ bản :
+        . nhận ra nhóm người thường bị bỏ sót
+        . giải quyết cho một nhóm người nhỏ và làm cho nó dễ sử dụng với mọi người
+        . học hỏi từ sự đa dạng
+    . xem xét thiên vị như một phổ các mức độ nặng nhẹ
+    . duy trì mối quan hệ giữa con người và công nhệ
+    . xây dựng đội ngũ phát triển AI toàn diện
+    . khả năng dự đoán những tác động của AI trong tương lai
+    => xem xét các rủi ro khi thời gian thay đổi
+__________________________________________________________________________________________
+STEEPV Analysis
+
+    thực hiện phân tích chiến lược về môi trường bên ngoài.
+    tìm hiểu ảnh hưởng của các yếu tố thị trường đến các quyết định và hoạt động kinh doanh
+    STEEPV, là: xã hội, công nghệ, kinh tế, môi trường, chính trị và các giá trị.
+        . Phân tích các yếu tố xã hội : văn hóa, thái độ xã hội, nhân khẩu học, v.v.
+            => thái độ cảu mọi người với công nghệ,..
+        . đột phá trong công nghệ có tiềm năng cách mạng hóa 
+            => các cách thức mới giải quyết bất bình đẳng
+        . Các yếu tố kinh tế bao gồm các khái niệm như tăng trưởng, lạm phát và lãi suất.
+            => ảnh hưởng đến các doanh nghiệp và cá nhân 
+        . môi trường bao gồm những thay đổi sinh thái như thay đổi khí hậu hoặc hệ sinh thái.
+            => các môi trường thường khác biệt nhau về nhiều điều kiện
+        . Chính trị liên quan đến niềm tin về chính phủ, cấu trúc quyền lực
+            => giải quyết những thành kiến ​​đối với hoặc chống lại các nhóm 
+            hoặc nguyên nhân chính trị
+        . Giá trị là những ý tưởng mà các cá nhân hoặc nền văn hóa coi là 
+        quan trọng đối với họ.
+            =>  xác định thái độ hoặc ý tưởng mà các giải pháp của bạn 
+            cần tính đến để công bằng
+__________________________________________________________________________________________
+Perform User Testing
+    Thực hiện kiểm thử từ người dùng
+
+    giảm thiểu nhiều loại rủi ro khác nhau bằng cách 
+    tiết lộ các vấn đề trước khi sản phẩm được triển khai vào sản xuất.
+    . kiểm tra phải đại diện cho những người thực sự sẽ sử dụng sản phẩm
+    .  sử dụng một loạt các cá nhân, mỗi người trong số họ mang lại 
+    những quan điểm và kinh nghiệm độc đáo
+    . những người được chọn để thử nghiệm có thể xuất phát từ tính cách người dùng đã
+    được mô hình hóa, người dùng sẽ trực tiếp sử dụng sản phẩm, hoặc sẽ bị ảnh hưởng
+    . xác định các mục tiêu với quy trình kiểm thử 
+        . muốn đạt điều gì
+        . sử dụng kết quả như nào 
+        . sẽ cải thiện gì 
+        . phương pháp nào : thử nghiệm A/B, phỏng vấn cá nhân, nhóm
+    . thiết lập kịch bản cho các bài thử nghiệm, thực hiện lien tục từ lúc design đến
+    khi ra mắt sản phẩm
+    . thử nghiệm phải mang tính đại diện tổng thể 
+__________________________________________________________________________________________
+Gather Input from External Stakeholders
+    Thu thập thông tin đầu vào từ các bên liên quan bên ngoài 
+
+    không chỉ người dùng, doanh nghiệp còn có nhiều bên liên quan 
+    => cần thu thập các ý kiến, kiến nghị của các bên liên quan đó 
+    . các người dùng tiềm năng đang tìm kiếm gì ở các giải pháp
+        => hướng dẫn yêu cầu thiết kế và duy trì công bằng
+    . các đối tác kinh doanh có thể nêu những lo ngại mà chúng ta chưa nghĩ đến
+    . các cơ quan chính phủ và cơ quan quản lí tiêu chuẩn
+        => giảm thiểu phạm pháp về phân biệt đối xử

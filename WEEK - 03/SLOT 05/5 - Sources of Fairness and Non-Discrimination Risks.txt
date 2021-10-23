@@ -1,0 +1,87 @@
+Implicit Bias
+    Thành kiến ngầm 
+
+    là sự nghiêng về những gì một nhóm người hoặc 
+    thành kiến ​​chống lại một nhóm người mà người đó không có ý thức
+    => người đó có thể không có ý định thiên vị khi nói đến nhóm khác, 
+    nhưng họ vẫn thể hiện sự thiên vị đó.
+
+    thường đề cập đến chủng tộc, giới tính, tình dục, khuyết tật, tình trạng kinh tế xã hội
+    . những người thu thập và những người đạo tạo AI, có thể đề cao hoặc hạ thấp các
+    dữ liệu của các nhóm người khác nhau một cách vô thức
+    => các mô hình AI có thể đối xử ko công bằng
+    . một chuyên gia về máy học có thể đánh giá thấp mô hình phục vụ cho nhóm người này
+    và đánh giá cao cho mô hình phục vụ cho nhóm người khác
+    . ai đó trình bày kết quả của mô hình mà vô thức bỏ qua kết quả của nhóm người này
+    mà nhấn mạnh quá mức kết quả cho nhóm người khác
+__________________________________________________________________________________________
+Sampling Bias
+    Xu hướng lấy mẫu 
+
+    sai lệch lấy mẫu là một loại sai lệch trong thống kê 
+        => dữ liệu từ mẫu không phản ánh đầy đủ về sự phân bố của tổng thể 
+    => dữ liệu của mẫu ko phản ánh cho toàn bộ
+    => khi có sai lệch, nó hạn chế các góc nhìn từ dữ liệu
+    . thường do các chiến lược thu thập ko đúng
+        . chỉ nhắm đến một số nhóm nhất định
+        . không đều, chỉ tập trung ở một khu vực
+        . lấy mẫu không cân xứng, các nhóm lệch nhau quá nhiều
+    . ngoài ra còn do quá trình làm sạch dữ liệu
+__________________________________________________________________________________________
+Reinforcement Bias
+    Xu hướng tăng cường 
+
+    liên quan đến việc lấy mẫu lặp đi lặp lại các sự kiện trong quá khứ 
+    => có thể dẫn đến đánh giá kém
+    vòng lặp : lấy mẫu -> đào tạo -> phản hồi -> lấy mẫu
+        . giúp ích khi dự đoán về các nhóm đc lấy mẫu
+        . không có ích hoặc ít khi dự đoán nhóm khác chưa lấy mẫu
+    => kết quả chỉ dựa trên một quan điểm hạn chế 
+    => tiếp tục tạo ra các kết luận từ hạn chế đó => tiêu cực
+    => rơi vào vòng lặp, nơi các điểm dữ liệu giống nhau được lặp đi lặp lại 
+    => rất kém trong việc tổng quát hóa
+__________________________________________________________________________________________
+Temporal Bias
+    Thiên vị tạm thời 
+
+    có thể tin vào điều gì đó vào một thời điểm nào đó
+    nhưng không tính đến việc các yếu tố thay đổi như thế nào theo thời gian
+    => những gì mà chúng ta tin là đúng sẽ ko còn đúng nữa
+    . các nguyên tắc bảo đảm sự công bằng trong một nhóm hoặc giữa các nhóm có thể 
+    sẽ không còn chính xác trong tương lai
+    => không còn đáp ứng một ngưỡng công bằng có thể chấp nhận được
+    => có nguy cơ để thái độ hiện tại của mình ảnh hưởng quá nhiều đến các công nghệ
+__________________________________________________________________________________________
+Overfitting to Training Data
+    Quá thích hợp với dữ liệu đào tạo 
+
+    là điều xảy ra khi một mô hình bị ảnh hưởng quá nhiều bởi dữ liệu mẫu mà nó được đào tạo
+    => không thể tổng quát hóa tốt cho một quần thể lớn hơn.
+    => nên sử dụng như một công cụ dự đoán các sự kiện hoặc hiện tượng 
+    một số nguyên nhân cho Overfitting:
+        . mô hình quá phức tạp
+            quá nhiều tham số, quá nhiều nhiễu
+        . tập dữ liệu quá nhỏ : không có đủ thông tin 
+    hậu quả đáng kể cho công bằng và ko phân biệt đối xử
+        . biện minh cho hành động trừng phạt ko công bằng
+        . biên minh cho ưu đãi ko công bằng
+    ! hoạt động tốt trên một tập mẫu nhưng ko tổng quát hóa tốt
+__________________________________________________________________________________________
+Edge Cases and Outliers
+    Các trường hợp biên và các yếu tố ngoại lai 
+
+    Các giá trị ngoại lai là một loại trường hợp cạnh hoặc bất kỳ điểm dữ liệu nào 
+    vượt quá ranh giới của tập dữ liệu.
+    . các trường hợp cạnh được chia thành các danh mục
+    => xác định các biên nơi giới hạn các giá trị 
+    . giá trị ngoại lai đề cập đến đến bất kì điểm dữ liệu nào nằm ngoài phân phối chuẩn
+    hay bất cứ dữ liệu nào sai lệch đáng kể với phần còn lại 
+    => thường là do sai sót trong đo lường dữ liệu, hoặc cách xử lí dữ liệu
+    . lỗi là các giá trị ko chính xác hoặc bị thiếu 
+    => thu thập hoặc đo lường dữ liệu ko đúng cách hoặc do thiếu thông tin sẵn có 
+    . nhiễu là các điểm dữ liệu ko liên quan hoặc ko cần thiết để đào tạo thành công 
+    => có thể làm sai lệch quá trình đào tạo 
+
+    => có thể làm giảm chất lượng của mô hình được đào tạo ra 
+    => ảnh hưởng tiêu cực đến mức độ công bằng của mô hình khi làm việc với 
+    dữ liệu về các nhóm như chủng tộc, giới tính, tình dục và giai cấp. 

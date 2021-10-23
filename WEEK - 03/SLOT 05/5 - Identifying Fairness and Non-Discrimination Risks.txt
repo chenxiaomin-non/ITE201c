@@ -1,0 +1,49 @@
+Analytical Techniques
+    Phương pháp phân tích
+
+    dữ liệu được sử dụng để đào tạo các hệ thống AI phải được đánh giá một cách có hệ thống
+    => phát hiện sai lệch lấy mẫu
+    . cố gắng khám phá bản chất của dữ liệu từ nhiều khía cạnh
+        đặc biệt là nguồn gốc và đặc điểm của dữ liệu
+        . nguồn gốc : để khách hàng đặt niềm tin vào hệ thống
+            tác động đến loại dữ liệu nào, có phải từ bên thứ 3
+            có bị hạn chế gì ko
+            => đánh giá đặc điểm các thành kiến, thiên vị
+        . đặc điểm dữ liệu : 
+            sự cân bằng của tập dữ liệu
+            kích thước
+            sự tương quan của các nhóm thông tin 
+    
+    exploratory data analysis or EDA
+    EDA sử dụng các kỹ thuật như thống kê tóm tắt và biểu đồ trực quan 
+    => ánh giá chất lượng và tính hữu ích của dữ liệu
+    EDA có thể tiết lộ các lỗ hổng hoặc các sai sót khác trong dữ liệu
+    => cân nhắc xử lý dữ liệu đó theo những cách khác nhau
+    . có nhóm nào bị bỏ qua ko, hiệu suất với các nhóm người mà tập dữ liệu ko chứa,
+    có tốt với các tập dữ liệu kết hợp, thiên vị sẽ ảnh hưởng lớn ko?
+__________________________________________________________________________________________
+Analyze Models in Different Environments
+    Phân tích mô hình trong các môi trường khác nhau 
+
+    việc thay đổi bối cảnh hoạt động của một mô hình AI có thể 
+    cung cấp một cái nhìn mới mẻ về những rủi ro.
+
+    nếu mô hình đã từng được triển khai sang các môi trường khác, 
+    => nó sẽ có nhiều nguy cơ đưa ra các quyết định thiên lệch hơn.
+    xã hội và nền văn hóa thay đổi theo thời gian, 
+    => dữ liệu và mục đích đằng sau một mô hình cũng vậy.
+
+    giúp tiết lộ các dạng thành kiến ​​hoặc phân biệt đối xử 
+    không rõ ràng trong môi trường chính của nó. 
+__________________________________________________________________________________________
+Persona Modeling
+    Mô hình tính cách
+
+    mô hình nhân cách là việc tìm ra một người hư cấu đại diện 
+    cho một số nhân khẩu học nhất định
+    => một cách tập hợp một nhóm người có chung các đặc điểm chính 
+        vào một thực thể duy nhất
+    cá tính có thể được sử dụng để xác định hành vi có lợi một cách không cân xứng 
+    đối với những gì nhóm này so với nhóm khác
+    Nếu AI tạo ra tất cả các cá tính từ cùng một nhóm, thì bản thân mô hình 
+    có thể bị ảnh hưởng bởi các thành kiến ​​trong quá trình đào tạo, 
